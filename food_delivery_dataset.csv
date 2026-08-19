@@ -1,0 +1,251 @@
+Order_ID,Restaurant,Cuisine,City,Quantity,Order_Value,Delivery_Time,Payment
+ORD1001,Pizza Point,South Indian,Bengaluru,5,908,77,Credit Card
+ORD1002,Tasty Treats,Fast Food,Bengaluru,3,1048,68,Debit Card
+ORD1003,Fresh Bowl,South Indian,Coimbatore,4,392,69,Wallet
+ORD1004,Chennai Meals,Fast Food,Bengaluru,5,692,54,Credit Card
+ORD1005,Pizza Point,Italian,Delhi,4,1213,29,Cash
+ORD1006,Dosa Street,Fast Food,Chennai,3,378,35,Debit Card
+ORD1007,Urban Bites,Indian,Delhi,3,697,61,Credit Card
+ORD1008,Pizza Point,Italian,Hyderabad,4,1069,87,Debit Card
+ORD1009,Fresh Bowl,Indian,Hyderabad,1,1396,67,Credit Card
+ORD1010,Chennai Meals,North Indian,Madurai,2,155,23,UPI
+ORD1011,Tasty Treats,Chinese,Delhi,1,1495,88,Debit Card
+ORD1012,Fresh Bowl,Fast Food,Delhi,1,617,66,Cash
+ORD1013,Fresh Bowl,Chinese,Delhi,1,1905,71,Cash
+ORD1014,Urban Bites,Chinese,Mumbai,5,224,40,Wallet
+ORD1015,Burger House,Fast Food,Bengaluru,3,153,55,Credit Card
+ORD1016,Chennai Meals,Italian,Chennai,1,795,49,Debit Card
+ORD1017,Food Corner,North Indian,Madurai,3,267,77,Wallet
+ORD1018,Fresh Bowl,Indian,Delhi,4,1030,39,Debit Card
+ORD1019,Burger House,South Indian,Delhi,2,1779,89,Credit Card
+ORD1020,Food Corner,Indian,Coimbatore,4,653,52,Cash
+ORD1021,Chennai Meals,South Indian,Madurai,4,1096,16,UPI
+ORD1022,Spice Hub,Indian,Delhi,5,723,21,Cash
+ORD1023,Dosa Street,Fast Food,Madurai,2,1614,48,Wallet
+ORD1024,Burger House,North Indian,Bengaluru,4,343,31,UPI
+ORD1025,Royal Kitchen,South Indian,Coimbatore,4,996,57,Wallet
+ORD1026,Spice Hub,Mexican,Madurai,2,864,73,Credit Card
+ORD1027,Dosa Street,Italian,Chennai,2,1565,65,UPI
+ORD1028,Urban Bites,Indian,Chennai,4,1199,68,Wallet
+ORD1029,Pizza Point,Indian,Hyderabad,2,1608,38,Credit Card
+ORD1030,Tasty Treats,South Indian,Coimbatore,4,322,39,Cash
+ORD1031,Royal Kitchen,Italian,Coimbatore,4,1473,85,Credit Card
+ORD1032,Urban Bites,Italian,Hyderabad,5,1818,66,Debit Card
+ORD1033,Chennai Meals,Fast Food,Madurai,1,475,84,Credit Card
+ORD1034,Urban Bites,Mexican,Coimbatore,4,1583,47,Credit Card
+ORD1035,Pizza Point,Fast Food,Chennai,3,1291,63,Debit Card
+ORD1036,Chennai Meals,Fast Food,Chennai,1,985,43,Wallet
+ORD1037,Royal Kitchen,Fast Food,Delhi,1,1960,77,Wallet
+ORD1038,Pizza Point,Fast Food,Bengaluru,1,873,36,Credit Card
+ORD1039,Food Corner,Fast Food,Coimbatore,5,374,40,Debit Card
+ORD1040,Tasty Treats,North Indian,Madurai,4,681,42,Debit Card
+ORD1041,Royal Kitchen,Italian,Hyderabad,5,262,63,Cash
+ORD1042,Food Corner,Fast Food,Hyderabad,4,289,85,Wallet
+ORD1043,Dosa Street,Italian,Madurai,5,708,63,UPI
+ORD1044,Royal Kitchen,Italian,Mumbai,5,150,34,Wallet
+ORD1045,Dosa Street,Chinese,Pune,3,239,77,Wallet
+ORD1046,Chennai Meals,North Indian,Bengaluru,5,803,75,Cash
+ORD1047,Food Corner,Fast Food,Hyderabad,2,469,63,UPI
+ORD1048,Tasty Treats,Indian,Coimbatore,3,1723,85,Cash
+ORD1049,Pizza Point,South Indian,Bengaluru,5,1978,15,UPI
+ORD1050,Fresh Bowl,Mexican,Coimbatore,1,288,27,Credit Card
+ORD1051,Urban Bites,Indian,Mumbai,2,1684,65,UPI
+ORD1052,Spice Hub,North Indian,Chennai,2,994,70,Cash
+ORD1053,Tasty Treats,South Indian,Bengaluru,2,408,76,Wallet
+ORD1054,Food Corner,North Indian,Delhi,3,1846,46,UPI
+ORD1055,Fresh Bowl,Italian,Hyderabad,5,1051,44,UPI
+ORD1056,Tasty Treats,South Indian,Bengaluru,5,839,43,Debit Card
+ORD1057,Food Corner,Italian,Bengaluru,1,159,63,Wallet
+ORD1058,Burger House,Indian,Bengaluru,1,410,59,Credit Card
+ORD1059,Burger House,Indian,Pune,2,1823,44,Cash
+ORD1060,Dosa Street,South Indian,Bengaluru,1,321,30,Credit Card
+ORD1061,Tasty Treats,South Indian,Coimbatore,3,1047,54,Wallet
+ORD1062,Burger House,Fast Food,Chennai,5,162,33,UPI
+ORD1063,Food Corner,North Indian,Mumbai,2,1341,32,UPI
+ORD1064,Dosa Street,Fast Food,Madurai,1,1815,15,Wallet
+ORD1065,Food Corner,North Indian,Bengaluru,3,1769,61,UPI
+ORD1066,Dosa Street,Fast Food,Hyderabad,3,470,80,UPI
+ORD1067,Tasty Treats,Italian,Bengaluru,1,1492,52,UPI
+ORD1068,Fresh Bowl,South Indian,Hyderabad,5,1786,65,Cash
+ORD1069,Pizza Point,Indian,Coimbatore,1,478,77,Cash
+ORD1070,Royal Kitchen,North Indian,Hyderabad,2,934,18,Debit Card
+ORD1071,Fresh Bowl,North Indian,Delhi,1,926,15,Credit Card
+ORD1072,Chennai Meals,Indian,Madurai,3,1060,22,Wallet
+ORD1073,Food Corner,Fast Food,Chennai,1,1723,43,Wallet
+ORD1074,Chennai Meals,North Indian,Hyderabad,5,1592,69,Wallet
+ORD1075,Fresh Bowl,Mexican,Hyderabad,4,1779,17,Debit Card
+ORD1076,Dosa Street,Italian,Chennai,1,1268,46,Cash
+ORD1077,Royal Kitchen,South Indian,Madurai,5,1990,24,Debit Card
+ORD1078,Royal Kitchen,Indian,Bengaluru,5,1754,88,Wallet
+ORD1079,Spice Hub,South Indian,Hyderabad,3,467,48,Credit Card
+ORD1080,Royal Kitchen,Mexican,Chennai,5,385,69,UPI
+ORD1081,Pizza Point,North Indian,Delhi,5,483,46,Cash
+ORD1082,Royal Kitchen,North Indian,Delhi,5,525,64,Cash
+ORD1083,Fresh Bowl,Mexican,Coimbatore,5,1632,21,Debit Card
+ORD1084,Spice Hub,Indian,Chennai,2,1310,22,Cash
+ORD1085,Fresh Bowl,Italian,Coimbatore,2,737,79,Wallet
+ORD1086,Fresh Bowl,Chinese,Delhi,3,1720,71,Wallet
+ORD1087,Urban Bites,Indian,Madurai,1,662,81,Debit Card
+ORD1088,Spice Hub,Chinese,Bengaluru,5,1469,73,Wallet
+ORD1089,Fresh Bowl,Mexican,Chennai,1,1493,86,Credit Card
+ORD1090,Urban Bites,Fast Food,Mumbai,1,1067,68,Debit Card
+ORD1091,Urban Bites,Chinese,Delhi,3,1745,81,Credit Card
+ORD1092,Spice Hub,Italian,Delhi,5,1522,65,UPI
+ORD1093,Chennai Meals,Fast Food,Mumbai,5,1952,22,Credit Card
+ORD1094,Dosa Street,Chinese,Pune,4,1022,48,UPI
+ORD1095,Pizza Point,Mexican,Delhi,1,1402,49,UPI
+ORD1096,Dosa Street,Fast Food,Hyderabad,1,419,46,Credit Card
+ORD1097,Royal Kitchen,Mexican,Madurai,2,947,60,Debit Card
+ORD1098,Pizza Point,Chinese,Chennai,4,1464,30,Wallet
+ORD1099,Royal Kitchen,Mexican,Mumbai,2,874,82,Wallet
+ORD1100,Fresh Bowl,Italian,Hyderabad,2,1338,51,UPI
+ORD1101,Food Corner,Chinese,Mumbai,2,154,68,UPI
+ORD1102,Spice Hub,Chinese,Chennai,3,1000,28,Debit Card
+ORD1103,Pizza Point,Chinese,Coimbatore,3,1552,69,Cash
+ORD1104,Pizza Point,Indian,Chennai,2,227,62,Credit Card
+ORD1105,Fresh Bowl,Indian,Pune,4,1583,21,UPI
+ORD1106,Chennai Meals,Indian,Chennai,1,723,88,Wallet
+ORD1107,Urban Bites,Italian,Chennai,4,281,21,Debit Card
+ORD1108,Fresh Bowl,Fast Food,Pune,5,750,47,Credit Card
+ORD1109,Burger House,Mexican,Madurai,3,1922,37,Debit Card
+ORD1110,Urban Bites,North Indian,Delhi,1,1215,33,Credit Card
+ORD1111,Spice Hub,Chinese,Chennai,1,238,33,Credit Card
+ORD1112,Urban Bites,Mexican,Pune,5,551,50,UPI
+ORD1113,Chennai Meals,Chinese,Hyderabad,5,445,43,Debit Card
+ORD1114,Urban Bites,Italian,Coimbatore,2,1468,74,Debit Card
+ORD1115,Spice Hub,Chinese,Coimbatore,3,765,16,Wallet
+ORD1116,Chennai Meals,Indian,Chennai,3,1699,15,Wallet
+ORD1117,Dosa Street,North Indian,Madurai,4,949,61,UPI
+ORD1118,Pizza Point,South Indian,Madurai,2,1864,83,UPI
+ORD1119,Pizza Point,Chinese,Hyderabad,2,1810,34,Cash
+ORD1120,Royal Kitchen,Mexican,Chennai,2,571,25,Wallet
+ORD1121,Dosa Street,Indian,Coimbatore,2,1196,16,Credit Card
+ORD1122,Dosa Street,South Indian,Madurai,3,724,81,Debit Card
+ORD1123,Urban Bites,North Indian,Chennai,3,292,26,UPI
+ORD1124,Pizza Point,South Indian,Mumbai,2,1142,34,Debit Card
+ORD1125,Spice Hub,Indian,Madurai,4,814,19,Debit Card
+ORD1126,Tasty Treats,Fast Food,Pune,1,294,51,Cash
+ORD1127,Tasty Treats,Fast Food,Mumbai,1,1398,52,Wallet
+ORD1128,Chennai Meals,South Indian,Delhi,4,1156,23,UPI
+ORD1129,Pizza Point,Italian,Madurai,2,652,67,Debit Card
+ORD1130,Pizza Point,Mexican,Coimbatore,3,970,58,UPI
+ORD1131,Tasty Treats,Mexican,Bengaluru,1,1789,38,Credit Card
+ORD1132,Pizza Point,South Indian,Mumbai,5,253,88,Cash
+ORD1133,Urban Bites,Chinese,Delhi,5,1212,44,Credit Card
+ORD1134,Burger House,Chinese,Hyderabad,4,347,73,UPI
+ORD1135,Food Corner,Mexican,Hyderabad,2,1819,28,UPI
+ORD1136,Dosa Street,Mexican,Coimbatore,1,728,23,Wallet
+ORD1137,Royal Kitchen,Fast Food,Madurai,2,540,54,Debit Card
+ORD1138,Chennai Meals,Italian,Chennai,1,1352,80,Debit Card
+ORD1139,Burger House,Indian,Madurai,4,703,39,Credit Card
+ORD1140,Tasty Treats,Chinese,Coimbatore,4,1621,87,Cash
+ORD1141,Dosa Street,Mexican,Hyderabad,5,1673,36,Debit Card
+ORD1142,Pizza Point,Fast Food,Madurai,2,1188,18,Wallet
+ORD1143,Royal Kitchen,North Indian,Hyderabad,5,1796,40,Credit Card
+ORD1144,Pizza Point,Fast Food,Mumbai,2,1842,72,Credit Card
+ORD1145,Spice Hub,Chinese,Delhi,5,1462,43,Wallet
+ORD1146,Spice Hub,Chinese,Chennai,3,627,51,Cash
+ORD1147,Royal Kitchen,Fast Food,Mumbai,3,1404,89,Wallet
+ORD1148,Royal Kitchen,Indian,Hyderabad,3,1072,84,Cash
+ORD1149,Tasty Treats,South Indian,Hyderabad,3,569,32,Wallet
+ORD1150,Royal Kitchen,Chinese,Bengaluru,1,306,56,Wallet
+ORD1151,Urban Bites,Fast Food,Bengaluru,3,699,55,UPI
+ORD1152,Pizza Point,Mexican,Mumbai,4,1614,52,Credit Card
+ORD1153,Burger House,Fast Food,Pune,4,1270,48,Wallet
+ORD1154,Fresh Bowl,Italian,Mumbai,1,1170,31,Wallet
+ORD1155,Royal Kitchen,South Indian,Bengaluru,3,1146,51,Debit Card
+ORD1156,Chennai Meals,North Indian,Hyderabad,3,1584,39,Credit Card
+ORD1157,Spice Hub,Indian,Coimbatore,3,1100,90,Debit Card
+ORD1158,Urban Bites,North Indian,Mumbai,5,438,41,Credit Card
+ORD1159,Dosa Street,South Indian,Hyderabad,2,1427,71,Debit Card
+ORD1160,Fresh Bowl,South Indian,Coimbatore,5,345,45,Wallet
+ORD1161,Burger House,South Indian,Coimbatore,2,747,20,Wallet
+ORD1162,Fresh Bowl,North Indian,Bengaluru,3,1695,54,UPI
+ORD1163,Royal Kitchen,Mexican,Mumbai,3,666,26,Debit Card
+ORD1164,Tasty Treats,South Indian,Madurai,5,1808,67,Cash
+ORD1165,Spice Hub,Fast Food,Chennai,5,1014,85,UPI
+ORD1166,Spice Hub,North Indian,Bengaluru,2,1291,24,Debit Card
+ORD1167,Dosa Street,South Indian,Bengaluru,4,955,59,Debit Card
+ORD1168,Tasty Treats,Fast Food,Madurai,2,1332,31,UPI
+ORD1169,Pizza Point,Mexican,Chennai,5,964,40,Wallet
+ORD1170,Food Corner,Italian,Hyderabad,5,377,76,Debit Card
+ORD1171,Urban Bites,Mexican,Pune,1,365,60,Wallet
+ORD1172,Spice Hub,South Indian,Mumbai,5,1097,78,UPI
+ORD1173,Chennai Meals,North Indian,Pune,1,1869,16,Wallet
+ORD1174,Spice Hub,Chinese,Hyderabad,4,164,68,Credit Card
+ORD1175,Fresh Bowl,South Indian,Delhi,2,1330,79,Cash
+ORD1176,Spice Hub,Chinese,Bengaluru,2,1821,65,Debit Card
+ORD1177,Spice Hub,Fast Food,Chennai,1,1434,67,Cash
+ORD1178,Food Corner,Italian,Bengaluru,2,1330,50,Wallet
+ORD1179,Food Corner,Indian,Coimbatore,5,196,40,Debit Card
+ORD1180,Burger House,Mexican,Bengaluru,3,473,43,Wallet
+ORD1181,Pizza Point,Italian,Bengaluru,1,993,35,Credit Card
+ORD1182,Chennai Meals,South Indian,Hyderabad,2,1858,25,UPI
+ORD1183,Spice Hub,Chinese,Hyderabad,1,279,54,Debit Card
+ORD1184,Spice Hub,Mexican,Hyderabad,1,1584,25,Credit Card
+ORD1185,Urban Bites,Chinese,Pune,3,244,50,Credit Card
+ORD1186,Food Corner,North Indian,Coimbatore,5,776,73,Debit Card
+ORD1187,Chennai Meals,Chinese,Delhi,1,904,53,Wallet
+ORD1188,Dosa Street,North Indian,Delhi,2,1465,68,Credit Card
+ORD1189,Burger House,Fast Food,Hyderabad,4,943,69,Cash
+ORD1190,Pizza Point,Mexican,Chennai,1,1984,38,Credit Card
+ORD1191,Tasty Treats,Mexican,Pune,1,1456,36,Wallet
+ORD1192,Pizza Point,Indian,Madurai,3,218,83,Wallet
+ORD1193,Fresh Bowl,South Indian,Chennai,5,1833,70,Cash
+ORD1194,Spice Hub,North Indian,Mumbai,4,160,47,Credit Card
+ORD1195,Burger House,Indian,Mumbai,2,1427,50,Wallet
+ORD1196,Fresh Bowl,Chinese,Chennai,4,1021,34,Debit Card
+ORD1197,Chennai Meals,Chinese,Hyderabad,2,699,76,UPI
+ORD1198,Tasty Treats,Indian,Madurai,5,1307,87,UPI
+ORD1199,Food Corner,Mexican,Madurai,2,861,40,UPI
+ORD1200,Burger House,Chinese,Pune,3,172,80,Credit Card
+ORD1201,Burger House,Fast Food,Madurai,3,964,87,Cash
+ORD1202,Spice Hub,Fast Food,Mumbai,3,495,87,Wallet
+ORD1203,Royal Kitchen,Indian,Coimbatore,3,451,54,Debit Card
+ORD1204,Burger House,North Indian,Hyderabad,4,512,31,Debit Card
+ORD1205,Urban Bites,North Indian,Madurai,5,545,15,Credit Card
+ORD1206,Tasty Treats,Indian,Pune,2,367,75,UPI
+ORD1207,Tasty Treats,North Indian,Mumbai,2,290,57,Credit Card
+ORD1208,Urban Bites,Mexican,Coimbatore,3,1789,56,Cash
+ORD1209,Dosa Street,Mexican,Bengaluru,3,1107,39,Cash
+ORD1210,Urban Bites,North Indian,Bengaluru,1,1383,53,Wallet
+ORD1211,Urban Bites,Fast Food,Coimbatore,5,1134,49,Wallet
+ORD1212,Tasty Treats,North Indian,Mumbai,4,1142,17,Cash
+ORD1213,Pizza Point,Mexican,Pune,2,1796,58,Cash
+ORD1214,Tasty Treats,Italian,Coimbatore,1,1789,65,Cash
+ORD1215,Royal Kitchen,South Indian,Hyderabad,1,977,26,Credit Card
+ORD1216,Spice Hub,Chinese,Hyderabad,2,832,33,Cash
+ORD1217,Fresh Bowl,Italian,Bengaluru,4,1633,58,Debit Card
+ORD1218,Pizza Point,North Indian,Madurai,1,1153,73,UPI
+ORD1219,Food Corner,Fast Food,Pune,1,505,63,Cash
+ORD1220,Fresh Bowl,Indian,Bengaluru,5,1157,75,UPI
+ORD1221,Spice Hub,North Indian,Madurai,4,1497,31,Credit Card
+ORD1222,Royal Kitchen,Fast Food,Madurai,1,1306,88,UPI
+ORD1223,Royal Kitchen,South Indian,Delhi,4,1037,71,Credit Card
+ORD1224,Food Corner,North Indian,Hyderabad,2,1978,69,Debit Card
+ORD1225,Pizza Point,Mexican,Mumbai,3,276,61,Credit Card
+ORD1226,Dosa Street,Indian,Chennai,1,1279,26,Credit Card
+ORD1227,Urban Bites,Fast Food,Mumbai,5,1158,76,Wallet
+ORD1228,Pizza Point,Fast Food,Chennai,2,753,22,Cash
+ORD1229,Dosa Street,Fast Food,Coimbatore,4,1972,35,Cash
+ORD1230,Royal Kitchen,South Indian,Hyderabad,2,1551,84,Debit Card
+ORD1231,Tasty Treats,North Indian,Madurai,1,1163,86,Debit Card
+ORD1232,Spice Hub,South Indian,Pune,4,200,39,Cash
+ORD1233,Food Corner,Chinese,Chennai,3,1202,26,Wallet
+ORD1234,Spice Hub,Chinese,Mumbai,2,1635,29,Cash
+ORD1235,Chennai Meals,North Indian,Madurai,1,1469,73,Wallet
+ORD1236,Chennai Meals,Mexican,Chennai,5,1470,40,Debit Card
+ORD1237,Pizza Point,South Indian,Chennai,4,1899,40,UPI
+ORD1238,Royal Kitchen,Indian,Delhi,2,928,61,Debit Card
+ORD1239,Royal Kitchen,Fast Food,Chennai,2,1580,46,Debit Card
+ORD1240,Urban Bites,Fast Food,Pune,3,1942,24,Credit Card
+ORD1241,Urban Bites,North Indian,Hyderabad,3,963,30,Credit Card
+ORD1242,Urban Bites,Mexican,Pune,5,1786,85,Credit Card
+ORD1243,Tasty Treats,Chinese,Bengaluru,5,1578,31,Credit Card
+ORD1244,Fresh Bowl,Chinese,Madurai,1,1519,37,Wallet
+ORD1245,Burger House,Fast Food,Hyderabad,1,1795,40,Cash
+ORD1246,Fresh Bowl,North Indian,Delhi,5,569,21,UPI
+ORD1247,Spice Hub,South Indian,Hyderabad,5,1355,28,Debit Card
+ORD1248,Fresh Bowl,Chinese,Hyderabad,4,1132,21,Wallet
+ORD1249,Tasty Treats,South Indian,Mumbai,3,974,23,UPI
+ORD1250,Spice Hub,Mexican,Hyderabad,1,1174,62,Wallet
