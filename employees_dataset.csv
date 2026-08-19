@@ -1,0 +1,501 @@
+First Name,Gender,Salary,Bonus %,Senior,Team
+Robert,Female,99886,7.242,True,IT
+Maria,Female,107955,14.14,False,Engineering
+Barbara,Male,129478,2.953,False,Client Services
+Anthony,Male,86606,3.387,True,Finance
+Nancy,Female,113148,4.233,False,Operations
+Maria,Female,114479,11.575,False,HR
+Nancy,Female,82065,13.528,False,IT
+Linda,Male,119065,8.556,False,Legal
+Patricia,,93984,14.816,False,Marketing
+William,Male,58986,12.062,True,Engineering
+Robert,Male,97256,1.89,True,IT
+Betty,Male,143018,2.674,False,Client Services
+Susan,Male,132054,2.552,False,
+Lisa,Male,125356,4.49,True,Sales
+Christopher,Female,109044,5.139,True,HR
+Lisa,Female,63047,12.304,False,Legal
+Anthony,Male,137787,5.936,True,Operations
+Larry,Male,79766,3.356,False,IT
+Charles,Female,97733,10.748,True,Marketing
+Charles,Female,135084,5.831,True,Client Services
+Ashley,Female,115467,2.132,False,Marketing
+Lisa,Female,125623,12.177,True,HR
+Jerry,Male,140742,4.171,False,Operations
+Robert,Female,46802,5.775,True,Finance
+Maria,Male,122371,4.652,True,Engineering
+Patricia,Male,60151,12.853,False,IT
+Lisa,Male,50539,13.58,False,Client Services
+Anthony,Male,66357,8.682,False,Client Services
+Douglas,Female,103871,10.095,True,Client Services
+Barbara,Male,62429,4.416,False,HR
+Thomas,Male,50600,3.733,True,Client Services
+Charles,Female,88484,4.914,False,Client Services
+Charles,Female,99240,2.055,True,Engineering
+Maria,Female,77745,14.106,False,Client Services
+Joseph,Female,101958,8.257,False,Marketing
+Betty,Female,64190,6.877,False,Legal
+Robert,Male,47368,1.993,False,Client Services
+Thomas,,94726,14.746,False,HR
+Joseph,Female,64508,4.802,False,Engineering
+Lisa,Female,84734,2.937,False,Finance
+Charles,Female,73251,11.417,False,Engineering
+Patricia,Female,139841,3.19,False,HR
+Daniel,,98222,10.2,True,HR
+Ashley,Female,117789,1.202,False,Engineering
+Lisa,Male,80247,12.297,False,Marketing
+Ashley,Female,85158,1.214,True,Marketing
+Karen,Female,139704,13.141,False,Sales
+Douglas,Male,114449,3.894,True,
+Matthew,Male,133668,12.828,False,Finance
+Ashley,Male,56338,13.285,False,Legal
+Michael,Male,92295,9.063,True,Sales
+Sandra,Male,81208,10.518,True,Legal
+Charles,,45728,5.481,True,Client Services
+Patricia,Male,80270,14.395,True,Sales
+Daniel,Male,132508,11.533,True,Legal
+Ashley,Male,68714,13.428,True,Finance
+Ashley,Female,46542,6.965,False,Legal
+Larry,Male,71962,9.138,True,Marketing
+Robert,Male,134339,2.169,True,HR
+Christopher,Male,49748,6.673,False,Sales
+Patricia,Male,125219,14.47,True,Marketing
+Daniel,Female,67700,1.604,True,HR
+Jerry,Male,116726,9.812,False,Marketing
+Karen,Male,56023,13.464,False,IT
+Jerry,Female,76921,4.723,True,Legal
+Charles,Male,102043,9.439,False,Client Services
+Larry,Male,129791,13.273,True,
+Douglas,Female,68833,6.332,False,Marketing
+Maria,Male,85943,2.055,False,Marketing
+Maria,Male,49809,12.895,True,Engineering
+Christopher,Male,66949,13.295,False,Finance
+Ashley,Female,88125,12.639,False,Marketing
+Anthony,Male,64758,6.888,True,Engineering
+Robert,Female,100393,9.913,True,Client Services
+James,Male,115390,8.33,True,Engineering
+Charles,Female,100123,7.428,False,HR
+William,Male,51254,2.804,True,HR
+Jerry,Female,146570,8.213,False,Finance
+Daniel,Male,68061,2.242,True,Engineering
+Thomas,Male,68624,2.292,True,Legal
+William,Male,49432,4.876,True,IT
+Joseph,Male,53717,9.656,True,IT
+Sandra,Male,63030,12.822,True,Finance
+Joseph,Female,135825,8.896,True,Operations
+Anthony,Male,52561,12.048,True,Finance
+Thomas,Male,68275,2.786,True,Engineering
+Thomas,Male,62260,5.625,True,
+James,Male,122149,3.612,False,IT
+Christopher,Male,121323,14.962,False,Finance
+Joseph,Female,58234,12.492,False,IT
+Larry,Female,109323,6.956,True,Sales
+Ashley,Female,46828,8.085,True,Sales
+James,Female,127180,1.887,False,Finance
+Douglas,Male,138070,7.602,True,Client Services
+Barbara,Female,53567,14.873,False,
+Betty,Female,86832,11.507,False,Client Services
+Susan,Female,61984,13.281,True,Finance
+Susan,Female,117101,8.557,True,Marketing
+Matthew,Female,137263,9.739,True,HR
+Linda,Female,125910,13.301,True,Sales
+James,Male,109484,11.9,True,Sales
+Michael,Male,68710,6.304,True,IT
+Linda,Male,129291,11.112,False,Client Services
+William,Male,122834,14.427,False,HR
+Ashley,,120993,9.207,False,Finance
+William,Female,109644,13.915,False,Marketing
+Betty,Male,113904,13.958,True,Marketing
+Susan,Female,146376,13.179,True,Client Services
+Patricia,Male,147516,9.452,True,Sales
+Thomas,Male,102761,13.858,False,Client Services
+Lisa,Female,82148,9.128,False,Finance
+Lisa,Male,69917,2.195,True,IT
+David,Female,69442,12.197,False,
+Linda,Male,109077,10.997,False,Finance
+James,Male,100168,5.681,True,Operations
+Christopher,,126974,3.186,False,Operations
+Matthew,Male,121218,8.077,False,HR
+Christopher,Male,109929,12.274,False,IT
+Lisa,Male,62327,2.217,False,Operations
+Karen,Male,95460,6.9,False,Marketing
+Michael,Male,59596,5.833,False,Legal
+Lisa,Female,74975,2.599,False,IT
+Charles,Female,47573,11.384,False,Legal
+William,Female,121908,10.677,True,HR
+Jerry,Male,67180,10.12,False,Operations
+Anthony,Male,49263,4.51,True,Legal
+Charles,Female,81397,1.658,False,HR
+Jerry,Male,102492,12.719,True,Sales
+Maria,Female,68150,14.357,False,Engineering
+Joseph,Female,60850,12.85,True,Finance
+Patricia,Male,99912,7.937,True,IT
+Maria,Female,120186,4.81,False,Client Services
+Charles,Male,81408,7.244,True,IT
+Charles,Male,103053,14.728,False,Legal
+Patricia,Male,82641,9.236,True,Operations
+Robert,Female,69070,5.163,False,IT
+Nancy,Male,70510,7.372,True,
+Maria,Female,123945,13.39,True,IT
+Robert,Male,89547,12.07,True,Finance
+Barbara,Female,97393,14.865,True,Operations
+Maria,Male,90084,11.741,True,Engineering
+Barbara,Male,69574,6.899,True,Marketing
+Susan,,77913,4.271,True,Marketing
+Joseph,Male,112364,12.009,True,HR
+Sandra,Male,125097,3.338,False,Sales
+Betty,Male,122129,1.657,True,Legal
+James,Male,117750,4.029,True,Client Services
+Michael,Male,71685,14.949,True,Client Services
+Joseph,Male,128300,2.281,True,IT
+Patricia,Male,139377,12.333,False,Legal
+Sandra,Female,125199,10.74,False,Finance
+David,Female,148537,7.932,False,Client Services
+Thomas,Female,52314,13.154,False,Marketing
+David,Male,131206,10.786,False,Operations
+Anthony,Male,123249,2.804,True,Engineering
+Jerry,Female,120713,5.019,False,Marketing
+Thomas,Female,108852,11.918,False,Client Services
+Thomas,Male,50084,12.043,False,
+Charles,Female,118609,7.63,False,
+Joseph,Male,135874,2.821,True,
+Joseph,Male,74241,1.014,False,Finance
+David,Male,86846,12.563,True,Sales
+Lisa,Female,97930,14.312,False,IT
+Karen,Male,93901,11.641,True,Client Services
+James,Male,93290,1.436,True,IT
+Karen,Male,84341,3.852,True,Engineering
+Nancy,Female,127879,5.118,False,Client Services
+Susan,Male,124083,4.466,True,HR
+Betty,Female,145737,12.166,True,
+Nancy,Female,71143,10.198,True,Marketing
+William,Female,120304,4.389,True,HR
+Michael,Female,108483,2.014,True,Marketing
+David,,126061,8.946,False,Finance
+Barbara,Male,102660,10.891,False,Legal
+Patricia,Female,48389,11.968,True,Operations
+James,Female,78662,10.01,True,
+David,Male,71745,5.606,False,Sales
+Daniel,Male,120717,11.069,False,Engineering
+Maria,Female,139242,4.088,False,Marketing
+Daniel,Male,145375,6.957,False,Sales
+Christopher,Female,76860,6.537,False,Finance
+Robert,Female,90241,13.773,False,Client Services
+Joseph,Male,71723,13.726,True,Finance
+David,Male,141059,6.67,False,IT
+Robert,Female,137152,6.587,True,
+Barbara,Female,89738,7.188,False,Legal
+William,Female,116635,6.311,True,Engineering
+Charles,Male,124671,9.195,True,HR
+Nancy,Female,136428,14.112,True,Marketing
+Daniel,Male,54200,9.185,False,Sales
+William,Female,134393,14.623,True,IT
+Barbara,Female,67911,2.858,False,Finance
+Nancy,Male,58669,13.154,False,Finance
+William,Female,73625,9.65,False,IT
+Anthony,Female,124134,10.224,True,Engineering
+Thomas,Female,105576,6.697,False,Legal
+William,Female,112203,10.346,False,Finance
+Christopher,Male,46367,5.156,True,Legal
+Ashley,Male,122714,6.44,True,Marketing
+Barbara,Female,105233,11.631,True,Client Services
+Thomas,Female,109732,5.777,False,Engineering
+Barbara,Female,136055,8.692,False,Finance
+Daniel,Male,104182,1.998,True,Legal
+Jerry,Male,91881,3.329,False,Engineering
+Joseph,Female,109157,11.026,True,Sales
+Robert,Male,74734,8.352,True,IT
+Sandra,Female,145102,12.42,False,IT
+David,Male,139088,12.112,True,IT
+Linda,Female,100826,12.916,True,Legal
+Douglas,Male,71160,11.316,False,Marketing
+Karen,Male,85390,8.654,False,Legal
+Anthony,Female,110108,10.462,False,HR
+William,Male,96501,2.458,False,HR
+Susan,Female,59210,6.617,True,HR
+Charles,Female,55756,1.979,False,Engineering
+Maria,Female,119069,10.373,True,Finance
+Matthew,Female,89843,2.243,True,Legal
+Anthony,Male,74328,5.212,False,Sales
+Matthew,Female,74301,14.895,False,IT
+Daniel,Female,136878,13.106,True,HR
+Jerry,Male,80585,14.117,True,Marketing
+Matthew,Female,147710,3.265,False,HR
+Barbara,Male,70169,9.791,False,IT
+Maria,Female,118800,5.515,True,Finance
+Susan,Female,139473,12.515,True,HR
+Douglas,Female,118965,3.448,True,Client Services
+Daniel,Female,61920,4.256,True,Sales
+James,Female,131269,9.436,True,Client Services
+Thomas,Female,147154,11.56,True,IT
+Patricia,Male,95331,5.246,True,Operations
+Jerry,Female,68312,4.257,False,Sales
+James,Male,102022,7.297,True,Client Services
+Susan,Male,114252,1.154,False,
+Michael,Male,136012,4.013,True,Finance
+Larry,Male,86424,2.536,False,Engineering
+Ashley,Female,82487,11.323,False,Client Services
+James,Female,98352,2.43,False,Legal
+Karen,Male,73671,13.625,True,Operations
+Linda,Male,52099,7.309,True,Client Services
+Matthew,,105920,11.447,True,
+Larry,Female,55142,5.151,True,Sales
+Christopher,Male,149797,12.627,False,HR
+Charles,Male,97161,10.343,True,Marketing
+Patricia,Male,131205,13.541,False,Engineering
+Thomas,Female,114519,12.365,False,Finance
+Linda,Female,67168,6.264,False,Legal
+Lisa,Male,143989,1.178,True,Client Services
+Robert,Male,88950,4.531,True,Engineering
+Susan,,139463,8.63,True,Legal
+Nancy,Female,69858,14.512,True,Client Services
+Betty,Male,111912,8.117,True,HR
+Robert,Female,146604,3.241,False,IT
+Douglas,Female,140081,10.206,True,Engineering
+Thomas,,129899,1.073,False,HR
+Anthony,Female,145082,12.788,False,IT
+Joseph,Male,111549,9.303,True,HR
+Daniel,Female,149195,3.538,True,Sales
+Susan,Male,140286,10.841,False,IT
+Christopher,Male,100506,1.82,True,HR
+Christopher,Female,73854,11.297,True,Finance
+Joseph,Male,120564,3.429,False,Sales
+Joseph,Female,102418,11.36,False,Engineering
+Nancy,Male,142909,4.823,True,Client Services
+Susan,Female,52999,3.605,True,Engineering
+James,,60078,13.655,True,Marketing
+Patricia,,82051,6.584,False,IT
+Sandra,Female,119971,4.86,True,IT
+Michael,Male,86800,7.826,False,Sales
+Daniel,Female,142798,2.21,True,Finance
+Sandra,Male,95601,12.59,False,Legal
+Larry,Male,142239,5.736,True,Legal
+Patricia,Male,136006,4.514,True,HR
+Thomas,Female,100718,10.91,True,Finance
+Douglas,Female,59357,12.9,False,Finance
+Robert,Female,102326,8.175,False,
+Robert,Male,108870,11.618,False,
+Joseph,Female,45781,4.343,True,IT
+Thomas,Male,65354,13.729,True,Sales
+Matthew,Male,148850,11.859,True,IT
+Patricia,Female,51710,9.997,True,IT
+James,Female,82711,13.001,True,Finance
+Douglas,Male,65074,5.384,False,HR
+Patricia,Female,99400,6.849,True,Engineering
+Jerry,Female,71170,3.271,True,Engineering
+Anthony,Female,133708,14.628,False,Legal
+Christopher,Female,71475,5.397,False,Finance
+Ashley,Female,136353,2.409,True,Client Services
+Joseph,Female,129246,9.693,False,Marketing
+Joseph,,103067,11.35,False,Finance
+Joseph,Male,73795,14.884,True,
+Ashley,Male,147932,1.465,True,Engineering
+Barbara,,74516,13.584,True,Marketing
+Thomas,Female,110677,13.104,False,Client Services
+Lisa,Male,106709,13.853,True,HR
+Christopher,Male,69264,12.752,True,Operations
+Matthew,Male,97142,7.298,False,HR
+Charles,Female,51816,7.563,True,Engineering
+Patricia,Female,59849,10.349,False,HR
+Matthew,Female,142136,4.994,False,Client Services
+Daniel,Male,124151,12.639,True,Marketing
+Patricia,Female,131497,13.306,True,IT
+Barbara,Female,109046,2.925,True,Sales
+Christopher,Female,123002,4.324,True,Sales
+Betty,Female,56190,14.774,False,Operations
+Nancy,Male,49378,2.96,False,Marketing
+Maria,,128375,4.93,False,Marketing
+Susan,Male,82418,12.815,True,Operations
+Michael,Male,50463,2.219,True,Marketing
+Robert,Male,115028,10.456,False,Client Services
+David,Male,53210,6.754,False,Engineering
+Douglas,Male,144291,12.497,False,Legal
+David,Male,67190,13.202,False,Finance
+Jerry,Female,55651,8.694,True,Marketing
+Patricia,Male,131120,10.05,True,Finance
+Robert,Female,105058,11.374,True,HR
+Thomas,,139475,5.131,True,Operations
+Daniel,Female,117982,12.434,False,Engineering
+Maria,Male,120749,12.046,False,Finance
+Barbara,Male,127279,13.455,False,
+Sandra,Male,121708,10.04,True,IT
+Christopher,Male,62297,9.917,True,Marketing
+Linda,Female,93515,3.343,False,Engineering
+Maria,Male,92093,13.959,True,
+Joseph,Male,47169,2.626,False,Engineering
+Nancy,Female,70372,5.038,True,
+Betty,Female,60848,8.752,False,HR
+Maria,Female,115393,1.807,False,Engineering
+Christopher,Male,70879,14.996,True,Finance
+Charles,Male,145455,5.562,False,Client Services
+Larry,Male,83975,9.302,False,HR
+Daniel,,61859,1.808,False,Sales
+James,Male,83635,11.565,False,Operations
+Douglas,Female,65878,9.481,False,Legal
+Daniel,Female,63354,9.43,True,Sales
+Patricia,Female,47384,12.858,False,
+Larry,Male,95876,13.969,False,Finance
+William,Male,67313,9.856,True,Finance
+Anthony,,55503,14.925,False,
+Jerry,Male,87727,14.119,False,Legal
+Thomas,Male,66281,2.087,False,Sales
+Maria,Female,106388,14.268,False,Client Services
+Linda,Male,134833,4.391,False,
+Joseph,Male,62622,14.009,False,Operations
+Daniel,Male,67173,14.706,True,Client Services
+Betty,Male,52190,13.137,False,Sales
+Nancy,Female,53244,12.255,False,Sales
+Nancy,Female,60649,2.874,False,Legal
+Charles,Female,95961,4.866,False,
+Patricia,Female,100103,5.428,True,Legal
+Thomas,Female,135930,7.073,True,HR
+Larry,,145252,6.427,True,Legal
+Matthew,Male,74796,14.525,False,Marketing
+Patricia,Male,111852,1.675,True,HR
+Patricia,Male,132697,9.882,True,
+Nancy,Male,125769,3.968,True,HR
+Douglas,Female,102505,6.526,False,Operations
+James,Female,61923,10.985,False,Marketing
+Maria,Male,55293,8.222,False,Engineering
+James,Female,53016,2.741,False,Client Services
+Charles,Female,69087,11.148,True,
+Douglas,Female,88791,11.821,False,
+Patricia,Female,138574,1.246,True,Legal
+Lisa,Male,91607,8.953,True,Sales
+Christopher,Male,133839,11.965,True,IT
+Jerry,Female,137769,9.446,True,Operations
+Linda,Male,71423,14.879,False,HR
+Barbara,Male,77793,12.861,True,Client Services
+Linda,Female,119218,12.338,True,Sales
+Anthony,Male,81081,10.661,False,Engineering
+Sandra,Female,72045,8.415,True,Engineering
+Betty,Female,76433,3.524,True,Client Services
+Barbara,Male,138344,2.918,True,Finance
+James,Male,104234,7.975,False,Legal
+Nancy,Male,103627,12.611,True,Finance
+Karen,Female,53711,3.263,False,Sales
+Robert,Male,72691,1.169,False,Sales
+Michael,Male,63601,5.503,False,Operations
+Larry,Male,128596,1.006,False,Legal
+Thomas,,137764,7.742,True,Sales
+Maria,Male,65313,6.0,False,Sales
+Nancy,Female,108232,3.682,True,Sales
+William,Male,136328,3.453,False,IT
+Larry,Female,91002,6.985,False,Client Services
+Joseph,Male,52812,6.872,False,Operations
+Lisa,Male,87351,5.642,True,Legal
+Maria,Male,136502,12.352,False,Sales
+Michael,,72056,8.547,False,Sales
+Daniel,Female,77252,6.832,False,
+Robert,Male,122116,7.125,False,
+Barbara,Female,105142,6.823,True,Operations
+Larry,Male,110458,3.543,False,HR
+Betty,Male,63375,10.254,True,Operations
+Thomas,Male,119704,14.331,False,HR
+Lisa,Male,56108,2.435,True,Legal
+Sandra,Female,52263,2.375,False,Marketing
+Anthony,Male,111216,3.733,True,HR
+Maria,Male,63287,8.869,True,Marketing
+Jerry,Female,116569,1.225,True,Sales
+Douglas,Female,90814,4.29,True,Client Services
+Linda,Male,45389,2.659,False,Client Services
+William,Female,72798,5.432,False,Client Services
+Susan,Female,69335,14.747,True,Finance
+Douglas,Male,104722,3.68,False,Marketing
+Susan,Male,76802,5.982,False,Legal
+Thomas,Female,135563,14.749,False,HR
+Matthew,Male,134116,5.554,True,Legal
+Michael,Male,140556,14.705,True,Engineering
+Charles,Male,104778,3.875,True,Client Services
+Michael,Female,139426,2.058,False,Sales
+Barbara,Male,61193,4.744,False,HR
+Michael,Male,81963,4.493,False,Sales
+Michael,Male,144575,9.226,False,
+David,Female,110618,14.406,False,Legal
+James,Female,129021,5.579,False,Engineering
+Joseph,Female,135009,14.948,False,Marketing
+Nancy,Female,135480,12.457,True,
+Anthony,Female,66281,1.875,True,Finance
+William,Female,103671,5.662,False,HR
+David,Female,145297,8.191,True,IT
+Susan,Female,74061,12.196,True,Marketing
+Larry,Male,130178,7.361,True,HR
+William,Male,118233,12.546,False,Legal
+Robert,Male,137247,13.98,True,Marketing
+Nancy,Male,58652,3.246,True,Marketing
+Robert,Male,108059,7.247,False,
+Sandra,Female,77828,5.953,False,IT
+Matthew,Female,149425,6.229,False,Operations
+Patricia,Female,101358,3.714,False,Engineering
+Matthew,Female,72518,9.548,True,Engineering
+Lisa,Male,50520,11.369,True,Finance
+Betty,Female,115269,3.32,False,Client Services
+Christopher,Female,137365,3.337,True,HR
+Sandra,Female,60534,11.554,True,Client Services
+Michael,Male,50618,8.654,True,
+Karen,Male,138500,5.721,False,IT
+Larry,Female,50126,11.822,True,Engineering
+William,Male,77130,8.849,True,Legal
+Sandra,Male,72048,7.791,True,HR
+Christopher,Male,49234,2.06,False,Legal
+Karen,Female,96717,6.452,True,IT
+Anthony,Male,92937,8.187,False,Sales
+Maria,Male,67335,9.518,True,Sales
+Ashley,Male,109925,4.047,False,Marketing
+Thomas,Male,99319,1.93,False,Legal
+David,Female,56577,11.619,True,Engineering
+Robert,Female,79693,11.5,True,Operations
+Ashley,Female,132796,9.853,False,HR
+Anthony,Female,112165,13.161,False,Marketing
+Christopher,Female,76455,7.035,False,HR
+Maria,Female,76709,4.773,False,Engineering
+Jerry,Male,144534,11.892,True,Operations
+Larry,Female,60899,4.041,True,
+Maria,Male,80959,13.014,False,HR
+Sandra,Female,147476,12.556,False,IT
+James,Female,86258,14.07,True,Client Services
+Joseph,Female,108344,14.456,True,Engineering
+Karen,Male,88469,13.832,True,
+William,Female,131724,13.102,False,Client Services
+Christopher,Male,84850,9.104,False,Client Services
+Thomas,Male,115532,14.939,False,Finance
+Lisa,Female,59026,14.289,True,Finance
+Sandra,Male,45570,10.76,True,HR
+Robert,Female,61999,10.872,False,Finance
+Susan,Female,128055,1.35,True,IT
+Maria,Female,50213,13.343,False,Engineering
+Betty,Female,67439,9.317,False,
+Charles,Female,91223,10.67,True,Operations
+Sandra,Female,74768,14.961,False,Engineering
+Matthew,Male,54076,1.874,False,Operations
+Charles,Female,136036,2.191,True,
+Thomas,Male,77101,14.193,False,Sales
+Larry,Female,135695,7.156,False,Operations
+Linda,Male,87043,12.573,False,Marketing
+Jerry,Male,105931,3.057,False,HR
+Matthew,Female,145315,9.641,False,Engineering
+Susan,Female,124675,7.83,True,Marketing
+Anthony,Male,137949,11.15,False,Finance
+Joseph,,103870,12.762,True,Legal
+Daniel,Female,125072,7.896,False,HR
+Maria,Female,104174,7.356,True,IT
+Larry,Female,125059,7.855,True,HR
+Anthony,Male,48262,8.992,False,Engineering
+David,Female,108909,14.579,False,Legal
+Michael,Male,117779,8.795,True,Engineering
+Patricia,Male,91675,4.495,False,
+Nancy,Male,137876,4.249,False,Marketing
+Sandra,Female,131124,14.225,False,IT
+David,Male,63108,3.163,False,HR
+Robert,,79524,10.914,False,Engineering
+Charles,,127062,13.748,False,
+Douglas,Male,79485,14.95,False,Client Services
+Joseph,Female,134037,13.81,False,IT
+William,Female,103226,11.511,True,Marketing
+Daniel,Male,120319,6.423,False,
+Betty,Female,58682,5.831,True,Engineering
+Christopher,Male,102616,10.147,False,HR
+Larry,Male,96257,7.379,False,Marketing
+Susan,Male,100021,2.105,True,Marketing
+Douglas,Male,49567,6.215,False,
+Karen,Female,142057,3.652,False,HR
