@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Email,City,Phone,Feedback
+CUST0001,aarav sharma,aarav.sharma1@gmail.com,HYDERABAD ,+91-76049-39256,Excellent quality! Very happy
+CUST0002,  Ananya Sharma  ,ananya.sharma2@gmail.com,DELHI,+91-62082-13905,good product but delivery was late
+CUST0003,KAVYA PATEL,kavya.patel3@gmail.com, Madurai,+91-95713-64987,Poor packaging and damaged item
+CUST0004,divya verma,divya.verma4@company.com, Chennai ,+91-70463-65392,"The product is good, but price is high"
+CUST0005,  Vijay Singh  ,vijay.singh5@yahoo.com,Mumbai,+91-66698-22156,Fast delivery and excellent service
+CUST0006,PRIYA IYER,priya.iyer6@company.com,HYDERABAD ,+91-62847-70217,Amazing experience!!!
+CUST0007,priya gupta,priya.gupta7@gmail.com,HYDERABAD ,+91-83700-85674,Poor packaging and damaged item
+CUST0008,  Ananya Sharma  ,ananya.sharma8@gmail.com, Madurai,+91-78965-20458,Poor packaging and damaged item
+CUST0009,NISHA SHARMA,nisha.sharma9@example.com,HYDERABAD ,+91-89714-93320,"The product is good, but price is high"
+CUST0010,rahul iyer,rahul.iyer10@company.com, Madurai,+91-77496-99593,good product but delivery was late
+CUST0011,  Meera Singh  ,meera.singh11@yahoo.com,coimbatore,+91-90294-59735,Customer support was helpful
+CUST0012,SANJAY DAS,sanjay.das12@yahoo.com,Mumbai,+91-63665-40021,Great service and fast delivery
+CUST0013,vikram iyer,vikram.iyer13@example.com,HYDERABAD ,+91-64337-37653,Will buy again from this store
+CUST0014,  Sanjay Iyer  ,sanjay.iyer14@yahoo.com, Pune ,+91-85928-94259,Not satisfied with the product
+CUST0015,RAHUL REDDY,rahul.reddy15@yahoo.com, Madurai,+91-96789-80644,Customer support was helpful
+CUST0016,ananya verma,ananya.verma16@example.com,DELHI,+91-83723-38746,Excellent quality! Very happy
+CUST0017,  Rohan Nair  ,rohan.nair17@gmail.com, Chennai ,+91-67185-30033,Excellent quality! Very happy
+CUST0018,VIKRAM GUPTA,vikram.gupta18@gmail.com,DELHI,+91-85009-88104,Not satisfied with the product
+CUST0019,rohan reddy,rohan.reddy19@gmail.com,BENGALURU,+91-95190-44973,"The product is good, but price is high"
+CUST0020,  Priya Reddy  ,priya.reddy20@example.com,coimbatore,+91-89735-10425,Customer support was helpful
+CUST0021,ROHAN SINGH,rohan.singh21@gmail.com,HYDERABAD ,+91-93270-89818,Poor packaging and damaged item
+CUST0022,rahul iyer,rahul.iyer22@yahoo.com, Chennai ,+91-99252-52487,Not satisfied with the product
+CUST0023,  Arun Sharma  ,arun.sharma23@company.com,HYDERABAD ,+91-75692-17592,Poor packaging and damaged item
+CUST0024,SANJAY VERMA,sanjay.verma24@gmail.com,BENGALURU,+91-91849-19071,Amazing experience!!!
+CUST0025,vikram singh,vikram.singh25@yahoo.com, Pune ,+91-96031-31643,Customer support was helpful
+CUST0026,  Rohan Verma  ,rohan.verma26@example.com, Madurai,+91-95343-36365,Customer support was helpful
+CUST0027,KARTHIK IYER,karthik.iyer27@example.com, Pune ,+91-67930-42493,Poor packaging and damaged item
+CUST0028,priya iyer,priya.iyer28@gmail.com, Madurai,+91-98564-38864,Great service and fast delivery
+CUST0029,  Priya Kumar  ,priya.kumar29@yahoo.com,BENGALURU,+91-62058-53309,good product but delivery was late
+CUST0030,ROHAN PATEL,rohan.patel30@company.com, Pune ,+91-74040-80678,Excellent quality! Very happy
+CUST0031,ananya verma,ananya.verma31@example.com, Madurai,+91-90996-63354,Poor packaging and damaged item
+CUST0032,  Priya Sharma  ,priya.sharma32@example.com,Mumbai,+91-87759-63883,Not satisfied with the product
+CUST0033,NISHA KUMAR,nisha.kumar33@gmail.com, Chennai ,+91-86386-54473,good product but delivery was late
+CUST0034,kavya patel,kavya.patel34@yahoo.com, Pune ,+91-69186-65296,Excellent quality! Very happy
+CUST0035,  Vijay Nair  ,vijay.nair35@yahoo.com,BENGALURU,+91-89041-82132,good product but delivery was late
+CUST0036,ARUN DAS,arun.das36@gmail.com,BENGALURU,+91-75491-31798,Fast delivery and excellent service
+CUST0037,divya nair,divya.nair37@yahoo.com,DELHI,+91-63842-31579,Fast delivery and excellent service
+CUST0038,  Arun Gupta  ,arun.gupta38@company.com, Pune ,+91-78694-65444,Amazing experience!!!
+CUST0039,AARAV NAIR,aarav.nair39@yahoo.com, Madurai,+91-79445-38534,Great service and fast delivery
+CUST0040,meera das,meera.das40@gmail.com,Mumbai,+91-63746-16572,Will buy again from this store
+CUST0041,  Divya Das  ,divya.das41@yahoo.com, Chennai ,+91-93281-20500,Excellent quality! Very happy
+CUST0042,PRIYA VERMA,priya.verma42@gmail.com, Madurai,+91-86461-25713,Will buy again from this store
+CUST0043,kavya verma,kavya.verma43@gmail.com,BENGALURU,+91-87474-96163,Will buy again from this store
+CUST0044,  Meera Das  ,meera.das44@company.com,HYDERABAD ,+91-73386-97782,"The product is good, but price is high"
+CUST0045,KAVYA REDDY,kavya.reddy45@example.com,coimbatore,+91-79660-69929,"The product is good, but price is high"
+CUST0046,sanjay sharma,sanjay.sharma46@gmail.com, Pune ,+91-96896-23104,good product but delivery was late
+CUST0047,  Rohan Patel  ,rohan.patel47@company.com,coimbatore,+91-82872-19016,Poor packaging and damaged item
+CUST0048,SNEHA REDDY,sneha.reddy48@yahoo.com, Pune ,+91-95600-49651,Will buy again from this store
+CUST0049,vikram das,vikram.das49@gmail.com,HYDERABAD ,+91-66788-27601,Customer support was helpful
+CUST0050,  Priya Sharma  ,priya.sharma50@yahoo.com,HYDERABAD ,+91-78465-89276,Poor packaging and damaged item
+CUST0051,ANANYA IYER,ananya.iyer51@yahoo.com,HYDERABAD ,+91-93122-74032,Customer support was helpful
+CUST0052,sanjay kumar,sanjay.kumar52@gmail.com,DELHI,+91-78132-15778,Great service and fast delivery
+CUST0053,  Sneha Singh  ,sneha.singh53@company.com,coimbatore,+91-88956-82309,Fast delivery and excellent service
+CUST0054,ROHAN KUMAR,rohan.kumar54@gmail.com,BENGALURU,+91-69768-81511,Great service and fast delivery
+CUST0055,nisha iyer,nisha.iyer55@yahoo.com,DELHI,+91-68352-15482,Customer support was helpful
+CUST0056,  Sneha Kumar  ,sneha.kumar56@company.com, Madurai,+91-76353-97416,good product but delivery was late
+CUST0057,SNEHA DAS,sneha.das57@example.com,coimbatore,+91-75514-31299,Excellent quality! Very happy
+CUST0058,sanjay gupta,sanjay.gupta58@gmail.com,coimbatore,+91-81770-63964,Poor packaging and damaged item
+CUST0059,  Vijay Singh  ,vijay.singh59@gmail.com,DELHI,+91-62537-71694,Poor packaging and damaged item
+CUST0060,KAVYA NAIR,kavya.nair60@company.com,HYDERABAD ,+91-74915-39219,Great service and fast delivery
+CUST0061,aarav patel,aarav.patel61@example.com,Mumbai,+91-78258-19099,Customer support was helpful
+CUST0062,  Sneha Das  ,sneha.das62@example.com,Mumbai,+91-61808-25118,Customer support was helpful
+CUST0063,RAHUL VERMA,rahul.verma63@company.com, Chennai ,+91-67104-88193,Fast delivery and excellent service
+CUST0064,sneha iyer,sneha.iyer64@example.com,BENGALURU,+91-85244-85574,Poor packaging and damaged item
+CUST0065,  Vijay Kumar  ,vijay.kumar65@example.com, Chennai ,+91-94073-80575,Poor packaging and damaged item
+CUST0066,SNEHA GUPTA,sneha.gupta66@gmail.com,Mumbai,+91-80572-96951,good product but delivery was late
+CUST0067,ananya reddy,ananya.reddy67@company.com,DELHI,+91-81376-62743,Customer support was helpful
+CUST0068,  Rohan Singh  ,rohan.singh68@yahoo.com,DELHI,+91-84847-98777,Excellent quality! Very happy
+CUST0069,MEERA VERMA,meera.verma69@company.com,DELHI,+91-95909-10053,Customer support was helpful
+CUST0070,vijay patel,vijay.patel70@example.com,Mumbai,+91-90473-67905,Not satisfied with the product
+CUST0071,  Aarav Patel  ,aarav.patel71@example.com,coimbatore,+91-65557-47196,Amazing experience!!!
+CUST0072,AARAV VERMA,aarav.verma72@company.com,BENGALURU,+91-75392-98184,Customer support was helpful
+CUST0073,kavya patel,kavya.patel73@yahoo.com, Chennai ,+91-63028-42092,Not satisfied with the product
+CUST0074,  Meera Sharma  ,meera.sharma74@example.com,DELHI,+91-97727-35485,Fast delivery and excellent service
+CUST0075,DIVYA GUPTA,divya.gupta75@yahoo.com,coimbatore,+91-60363-23970,Fast delivery and excellent service
+CUST0076,kavya singh,kavya.singh76@example.com, Chennai ,+91-96530-42662,good product but delivery was late
+CUST0077,  Divya Singh  ,divya.singh77@example.com,Mumbai,+91-89004-90301,Amazing experience!!!
+CUST0078,KARTHIK DAS,karthik.das78@example.com,coimbatore,+91-91108-68991,Customer support was helpful
+CUST0079,vikram patel,vikram.patel79@company.com, Pune ,+91-75679-45992,Not satisfied with the product
+CUST0080,  Priya Reddy  ,priya.reddy80@yahoo.com,HYDERABAD ,+91-82010-51904,Amazing experience!!!
+CUST0081,PRIYA SINGH,priya.singh81@yahoo.com, Madurai,+91-85102-30028,Poor packaging and damaged item
+CUST0082,priya gupta,priya.gupta82@example.com,Mumbai,+91-95560-71069,Fast delivery and excellent service
+CUST0083,  Arun Patel  ,arun.patel83@example.com,DELHI,+91-98278-12560,Will buy again from this store
+CUST0084,KARTHIK NAIR,karthik.nair84@gmail.com,Mumbai,+91-79569-61116,Fast delivery and excellent service
+CUST0085,rohan das,rohan.das85@yahoo.com, Pune ,+91-74380-45774,Fast delivery and excellent service
+CUST0086,  Divya Kumar  ,divya.kumar86@example.com,Mumbai,+91-86497-31632,Not satisfied with the product
+CUST0087,SANJAY SINGH,sanjay.singh87@gmail.com,DELHI,+91-98790-83975,Great service and fast delivery
+CUST0088,priya gupta,priya.gupta88@yahoo.com, Pune ,+91-71909-16590,Customer support was helpful
+CUST0089,  Karthik Iyer  ,karthik.iyer89@yahoo.com, Pune ,+91-81420-54236,Fast delivery and excellent service
+CUST0090,VIJAY GUPTA,vijay.gupta90@company.com,BENGALURU,+91-90822-12540,Amazing experience!!!
+CUST0091,arun iyer,arun.iyer91@yahoo.com,BENGALURU,+91-62638-14067,Poor packaging and damaged item
+CUST0092,  Kavya Kumar  ,kavya.kumar92@yahoo.com, Madurai,+91-68272-72070,good product but delivery was late
+CUST0093,MEERA PATEL,meera.patel93@example.com,HYDERABAD ,+91-84175-31992,Will buy again from this store
+CUST0094,meera sharma,meera.sharma94@yahoo.com,HYDERABAD ,+91-67084-85849,Great service and fast delivery
+CUST0095,  Sanjay Reddy  ,sanjay.reddy95@example.com,DELHI,+91-72997-19961,Will buy again from this store
+CUST0096,ANANYA PATEL,ananya.patel96@gmail.com,HYDERABAD ,+91-99348-25866,Will buy again from this store
+CUST0097,vikram kumar,vikram.kumar97@company.com,DELHI,+91-84285-19038,Amazing experience!!!
+CUST0098,  Aarav Iyer  ,aarav.iyer98@gmail.com,DELHI,+91-92125-23833,Fast delivery and excellent service
+CUST0099,SNEHA NAIR,sneha.nair99@yahoo.com,DELHI,+91-71543-78386,Customer support was helpful
+CUST0100,meera das,meera.das100@example.com, Pune ,+91-88545-87656,Customer support was helpful
+CUST0101,  Sneha Patel  ,sneha.patel101@gmail.com,HYDERABAD ,+91-89543-41963,Not satisfied with the product
+CUST0102,MEERA VERMA,meera.verma102@example.com,Mumbai,+91-61880-74789,"The product is good, but price is high"
+CUST0103,rahul nair,rahul.nair103@yahoo.com,Mumbai,+91-76931-54608,Customer support was helpful
+CUST0104,  Sanjay Verma  ,sanjay.verma104@company.com, Chennai ,+91-93857-35042,good product but delivery was late
+CUST0105,KAVYA GUPTA,kavya.gupta105@example.com, Madurai,+91-91201-94659,Not satisfied with the product
+CUST0106,divya kumar,divya.kumar106@gmail.com,HYDERABAD ,+91-74522-63005,Poor packaging and damaged item
+CUST0107,  Vijay Verma  ,vijay.verma107@company.com, Pune ,+91-96272-79588,"The product is good, but price is high"
+CUST0108,KARTHIK DAS,karthik.das108@company.com,Mumbai,+91-89736-45509,Customer support was helpful
+CUST0109,vijay patel,vijay.patel109@gmail.com, Madurai,+91-80679-25670,Amazing experience!!!
+CUST0110,  Vikram Singh  ,vikram.singh110@yahoo.com, Madurai,+91-91732-46241,Will buy again from this store
+CUST0111,VIKRAM DAS,vikram.das111@company.com,BENGALURU,+91-72721-48829,Poor packaging and damaged item
+CUST0112,sneha singh,sneha.singh112@company.com, Chennai ,+91-95005-26591,Customer support was helpful
+CUST0113,  Arun Kumar  ,arun.kumar113@company.com,coimbatore,+91-92170-23446,Great service and fast delivery
+CUST0114,MEERA REDDY,meera.reddy114@example.com, Pune ,+91-88866-54657,Excellent quality! Very happy
+CUST0115,arun reddy,arun.reddy115@example.com,BENGALURU,+91-64282-62521,Not satisfied with the product
+CUST0116,  Priya Verma  ,priya.verma116@gmail.com,coimbatore,+91-69777-83772,Customer support was helpful
+CUST0117,PRIYA PATEL,priya.patel117@gmail.com,DELHI,+91-99735-88135,Will buy again from this store
+CUST0118,kavya das,kavya.das118@example.com, Pune ,+91-89014-48974,Will buy again from this store
+CUST0119,  Karthik Reddy  ,karthik.reddy119@gmail.com,BENGALURU,+91-73617-91987,Poor packaging and damaged item
+CUST0120,VIJAY SHARMA,vijay.sharma120@yahoo.com, Madurai,+91-71391-82350,good product but delivery was late
+CUST0121,rahul kumar,rahul.kumar121@example.com, Pune ,+91-98916-71592,Customer support was helpful
+CUST0122,  Arun Patel  ,arun.patel122@company.com,HYDERABAD ,+91-89755-19329,Poor packaging and damaged item
+CUST0123,SANJAY REDDY,sanjay.reddy123@yahoo.com,DELHI,+91-67521-81376,Poor packaging and damaged item
+CUST0124,aarav singh,aarav.singh124@company.com,coimbatore,+91-64679-17816,Excellent quality! Very happy
+CUST0125,  Vikram Reddy  ,vikram.reddy125@company.com, Pune ,+91-68149-71433,Customer support was helpful
+CUST0126,ANANYA GUPTA,ananya.gupta126@company.com, Pune ,+91-88688-20543,Will buy again from this store
+CUST0127,arun gupta,arun.gupta127@company.com,HYDERABAD ,+91-61695-21970,Poor packaging and damaged item
+CUST0128,  Aarav Verma  ,aarav.verma128@gmail.com,HYDERABAD ,+91-97764-15273,Excellent quality! Very happy
+CUST0129,DIVYA DAS,divya.das129@example.com,HYDERABAD ,+91-71894-86720,Fast delivery and excellent service
+CUST0130,aarav nair,aarav.nair130@gmail.com, Pune ,+91-82803-63523,"The product is good, but price is high"
+CUST0131,  Sneha Sharma  ,sneha.sharma131@yahoo.com,Mumbai,+91-86977-74942,Customer support was helpful
+CUST0132,AARAV GUPTA,aarav.gupta132@gmail.com, Pune ,+91-65771-51224,Customer support was helpful
+CUST0133,sneha sharma,sneha.sharma133@example.com, Chennai ,+91-95559-70552,Fast delivery and excellent service
+CUST0134,  Arun Patel  ,arun.patel134@company.com, Pune ,+91-88969-16764,Poor packaging and damaged item
+CUST0135,VIJAY DAS,vijay.das135@yahoo.com,HYDERABAD ,+91-88712-73532,good product but delivery was late
+CUST0136,arun verma,arun.verma136@yahoo.com,coimbatore,+91-80365-82199,Great service and fast delivery
+CUST0137,  Rohan Gupta  ,rohan.gupta137@gmail.com, Madurai,+91-67435-70482,good product but delivery was late
+CUST0138,AARAV SINGH,aarav.singh138@example.com,HYDERABAD ,+91-93349-45838,Fast delivery and excellent service
+CUST0139,nisha nair,nisha.nair139@example.com, Madurai,+91-89935-82255,Excellent quality! Very happy
+CUST0140,  Karthik Patel  ,karthik.patel140@yahoo.com,BENGALURU,+91-78104-64387,"The product is good, but price is high"
+CUST0141,SANJAY DAS,sanjay.das141@company.com, Chennai ,+91-78536-49132,Will buy again from this store
+CUST0142,meera nair,meera.nair142@yahoo.com, Pune ,+91-95296-73483,"The product is good, but price is high"
+CUST0143,  Sneha Das  ,sneha.das143@example.com, Pune ,+91-81088-34727,Poor packaging and damaged item
+CUST0144,MEERA GUPTA,meera.gupta144@yahoo.com,DELHI,+91-62860-51704,Not satisfied with the product
+CUST0145,ananya gupta,ananya.gupta145@example.com,coimbatore,+91-92461-14852,Excellent quality! Very happy
+CUST0146,  Rohan Verma  ,rohan.verma146@company.com,BENGALURU,+91-88855-23069,Amazing experience!!!
+CUST0147,SANJAY NAIR,sanjay.nair147@gmail.com,coimbatore,+91-86868-95823,Excellent quality! Very happy
+CUST0148,priya nair,priya.nair148@company.com,Mumbai,+91-86049-95175,good product but delivery was late
+CUST0149,  Nisha Iyer  ,nisha.iyer149@example.com,Mumbai,+91-91978-80912,Great service and fast delivery
+CUST0150,MEERA SHARMA,meera.sharma150@yahoo.com,HYDERABAD ,+91-74908-21846,Fast delivery and excellent service
+CUST0151,priya sharma,priya.sharma151@example.com,coimbatore,+91-79625-13794,Great service and fast delivery
+CUST0152,  Sneha Kumar  ,sneha.kumar152@company.com,Mumbai,+91-84565-66450,Excellent quality! Very happy
+CUST0153,KAVYA DAS,kavya.das153@example.com,coimbatore,+91-71140-32946,good product but delivery was late
+CUST0154,meera gupta,meera.gupta154@yahoo.com, Pune ,+91-98217-28758,Poor packaging and damaged item
+CUST0155,  Divya Reddy  ,divya.reddy155@example.com,HYDERABAD ,+91-60615-70981,Customer support was helpful
+CUST0156,AARAV DAS,aarav.das156@yahoo.com,BENGALURU,+91-88949-55293,Will buy again from this store
+CUST0157,vijay gupta,vijay.gupta157@company.com, Pune ,+91-79799-36111,Fast delivery and excellent service
+CUST0158,  Nisha Nair  ,nisha.nair158@gmail.com, Madurai,+91-84993-84963,"The product is good, but price is high"
+CUST0159,MEERA REDDY,meera.reddy159@company.com, Chennai ,+91-85939-45976,Great service and fast delivery
+CUST0160,meera kumar,meera.kumar160@example.com,HYDERABAD ,+91-75081-89569,"The product is good, but price is high"
+CUST0161,  Kavya Patel  ,kavya.patel161@company.com,coimbatore,+91-66367-92242,Great service and fast delivery
+CUST0162,VIJAY NAIR,vijay.nair162@gmail.com,Mumbai,+91-68612-21813,Customer support was helpful
+CUST0163,sneha gupta,sneha.gupta163@yahoo.com, Madurai,+91-68661-80701,"The product is good, but price is high"
+CUST0164,  Rohan Das  ,rohan.das164@company.com,coimbatore,+91-76840-73156,Customer support was helpful
+CUST0165,ANANYA IYER,ananya.iyer165@gmail.com, Pune ,+91-64934-28449,Poor packaging and damaged item
+CUST0166,nisha gupta,nisha.gupta166@company.com,BENGALURU,+91-85858-11824,Customer support was helpful
+CUST0167,  Rohan Sharma  ,rohan.sharma167@example.com,Mumbai,+91-77181-86619,Fast delivery and excellent service
+CUST0168,NISHA IYER,nisha.iyer168@gmail.com, Madurai,+91-90898-13280,Will buy again from this store
+CUST0169,sanjay das,sanjay.das169@company.com, Madurai,+91-64142-93283,Not satisfied with the product
+CUST0170,  Sanjay Reddy  ,sanjay.reddy170@example.com,BENGALURU,+91-69160-15943,Great service and fast delivery
+CUST0171,VIJAY NAIR,vijay.nair171@gmail.com,BENGALURU,+91-75387-80457,Excellent quality! Very happy
+CUST0172,karthik nair,karthik.nair172@company.com,DELHI,+91-98491-30253,Fast delivery and excellent service
+CUST0173,  Aarav Sharma  ,aarav.sharma173@example.com,DELHI,+91-78333-14288,"The product is good, but price is high"
+CUST0174,KAVYA NAIR,kavya.nair174@example.com, Madurai,+91-83768-23022,"The product is good, but price is high"
+CUST0175,rohan iyer,rohan.iyer175@gmail.com,DELHI,+91-78080-34878,good product but delivery was late
+CUST0176,  Nisha Nair  ,nisha.nair176@gmail.com, Madurai,+91-99134-12799,Great service and fast delivery
+CUST0177,VIKRAM IYER,vikram.iyer177@yahoo.com,coimbatore,+91-97000-36896,good product but delivery was late
+CUST0178,nisha das,nisha.das178@yahoo.com, Madurai,+91-75269-53064,Excellent quality! Very happy
+CUST0179,  Vikram Verma  ,vikram.verma179@gmail.com,HYDERABAD ,+91-69482-27038,Amazing experience!!!
+CUST0180,VIJAY SINGH,vijay.singh180@gmail.com, Chennai ,+91-68637-11947,"The product is good, but price is high"
+CUST0181,vikram patel,vikram.patel181@company.com, Chennai ,+91-71419-44782,Great service and fast delivery
+CUST0182,  Rahul Gupta  ,rahul.gupta182@gmail.com,BENGALURU,+91-91211-68756,"The product is good, but price is high"
+CUST0183,ROHAN VERMA,rohan.verma183@gmail.com, Pune ,+91-93019-39038,Will buy again from this store
+CUST0184,arun das,arun.das184@company.com, Pune ,+91-62041-17972,Not satisfied with the product
+CUST0185,  Nisha Gupta  ,nisha.gupta185@example.com,BENGALURU,+91-92130-68138,good product but delivery was late
+CUST0186,SANJAY SHARMA,sanjay.sharma186@company.com,coimbatore,+91-64304-26540,Customer support was helpful
+CUST0187,meera verma,meera.verma187@company.com,DELHI,+91-99150-79541,Customer support was helpful
+CUST0188,  Divya Das  ,divya.das188@example.com,BENGALURU,+91-67498-95814,Amazing experience!!!
+CUST0189,ANANYA PATEL,ananya.patel189@example.com, Pune ,+91-74974-64239,"The product is good, but price is high"
+CUST0190,nisha nair,nisha.nair190@example.com,DELHI,+91-66231-50966,Fast delivery and excellent service
+CUST0191,  Sneha Reddy  ,sneha.reddy191@company.com,coimbatore,+91-91081-18799,good product but delivery was late
+CUST0192,NISHA SHARMA,nisha.sharma192@gmail.com,DELHI,+91-66328-58843,Excellent quality! Very happy
+CUST0193,rohan kumar,rohan.kumar193@company.com,BENGALURU,+91-86922-56346,Fast delivery and excellent service
+CUST0194,  Nisha Kumar  ,nisha.kumar194@company.com,HYDERABAD ,+91-83045-23579,Will buy again from this store
+CUST0195,ROHAN PATEL,rohan.patel195@yahoo.com, Pune ,+91-74696-24184,"The product is good, but price is high"
+CUST0196,nisha das,nisha.das196@company.com,BENGALURU,+91-78256-85248,Poor packaging and damaged item
+CUST0197,  Vikram Gupta  ,vikram.gupta197@gmail.com,HYDERABAD ,+91-61897-33647,Customer support was helpful
+CUST0198,ANANYA REDDY,ananya.reddy198@company.com,Mumbai,+91-60400-33777,Excellent quality! Very happy
+CUST0199,meera gupta,meera.gupta199@gmail.com,coimbatore,+91-62009-22026,Amazing experience!!!
+CUST0200,  Kavya Gupta  ,kavya.gupta200@example.com, Pune ,+91-82340-30631,"The product is good, but price is high"
+CUST0201,VIJAY IYER,vijay.iyer201@gmail.com, Chennai ,+91-70196-30632,Will buy again from this store
+CUST0202,arun sharma,arun.sharma202@company.com, Pune ,+91-87788-73656,Will buy again from this store
+CUST0203,  Divya Gupta  ,divya.gupta203@company.com, Madurai,+91-93577-24918,"The product is good, but price is high"
+CUST0204,KARTHIK SHARMA,karthik.sharma204@company.com, Pune ,+91-94533-97442,Customer support was helpful
+CUST0205,arun patel,arun.patel205@example.com, Chennai ,+91-60503-36794,Customer support was helpful
+CUST0206,  Kavya Singh  ,kavya.singh206@company.com,HYDERABAD ,+91-81503-25726,Great service and fast delivery
+CUST0207,DIVYA GUPTA,divya.gupta207@yahoo.com,coimbatore,+91-84917-79806,Poor packaging and damaged item
+CUST0208,rohan das,rohan.das208@company.com,BENGALURU,+91-86022-15544,Fast delivery and excellent service
+CUST0209,  Arun Nair  ,arun.nair209@gmail.com,Mumbai,+91-97732-66267,Will buy again from this store
+CUST0210,KARTHIK GUPTA,karthik.gupta210@company.com,BENGALURU,+91-86544-12733,"The product is good, but price is high"
+CUST0211,rahul verma,rahul.verma211@example.com,Mumbai,+91-65775-67240,good product but delivery was late
+CUST0212,  Kavya Gupta  ,kavya.gupta212@example.com,BENGALURU,+91-85936-50668,"The product is good, but price is high"
+CUST0213,KAVYA IYER,kavya.iyer213@yahoo.com,BENGALURU,+91-93455-92998,good product but delivery was late
+CUST0214,rohan das,rohan.das214@yahoo.com,Mumbai,+91-83009-94599,Excellent quality! Very happy
+CUST0215,  Kavya Sharma  ,kavya.sharma215@yahoo.com,HYDERABAD ,+91-72928-32740,Will buy again from this store
+CUST0216,RAHUL SHARMA,rahul.sharma216@yahoo.com, Pune ,+91-90405-83889,Will buy again from this store
+CUST0217,divya verma,divya.verma217@company.com,Mumbai,+91-69893-67640,good product but delivery was late
+CUST0218,  Divya Nair  ,divya.nair218@company.com,HYDERABAD ,+91-98759-17362,"The product is good, but price is high"
+CUST0219,ROHAN SHARMA,rohan.sharma219@company.com, Pune ,+91-89616-14929,Great service and fast delivery
+CUST0220,sneha reddy,sneha.reddy220@gmail.com,BENGALURU,+91-98933-76462,Fast delivery and excellent service
+CUST0221,  Divya Verma  ,divya.verma221@gmail.com, Pune ,+91-97464-95437,Poor packaging and damaged item
+CUST0222,SNEHA VERMA,sneha.verma222@example.com,coimbatore,+91-64054-69050,good product but delivery was late
+CUST0223,vikram iyer,vikram.iyer223@gmail.com,coimbatore,+91-62565-42472,Not satisfied with the product
+CUST0224,  Divya Das  ,divya.das224@yahoo.com,Mumbai,+91-84435-47079,Fast delivery and excellent service
+CUST0225,KARTHIK IYER,karthik.iyer225@gmail.com,Mumbai,+91-64319-53213,good product but delivery was late
+CUST0226,rohan gupta,rohan.gupta226@company.com,HYDERABAD ,+91-99498-29709,"The product is good, but price is high"
+CUST0227,  Priya Verma  ,priya.verma227@yahoo.com,Mumbai,+91-80331-95990,Fast delivery and excellent service
+CUST0228,RAHUL VERMA,rahul.verma228@gmail.com,HYDERABAD ,+91-96629-59372,"The product is good, but price is high"
+CUST0229,nisha singh,nisha.singh229@gmail.com,DELHI,+91-93324-57425,Great service and fast delivery
+CUST0230,  Sneha Reddy  ,sneha.reddy230@yahoo.com, Madurai,+91-82395-73736,Poor packaging and damaged item
+CUST0231,KAVYA SINGH,kavya.singh231@yahoo.com,BENGALURU,+91-79385-23256,Amazing experience!!!
+CUST0232,vikram das,vikram.das232@gmail.com,Mumbai,+91-68588-88282,Fast delivery and excellent service
+CUST0233,  Rahul Singh  ,rahul.singh233@yahoo.com,coimbatore,+91-88683-15726,Fast delivery and excellent service
+CUST0234,SNEHA PATEL,sneha.patel234@example.com,HYDERABAD ,+91-89420-40671,Amazing experience!!!
+CUST0235,kavya reddy,kavya.reddy235@example.com, Madurai,+91-84106-98907,Will buy again from this store
+CUST0236,  Divya Nair  ,divya.nair236@company.com,DELHI,+91-92958-79135,Fast delivery and excellent service
+CUST0237,RAHUL PATEL,rahul.patel237@yahoo.com,HYDERABAD ,+91-63419-94040,Not satisfied with the product
+CUST0238,nisha iyer,nisha.iyer238@gmail.com,BENGALURU,+91-78681-20993,Excellent quality! Very happy
+CUST0239,  Vijay Nair  ,vijay.nair239@yahoo.com,DELHI,+91-66010-39102,Not satisfied with the product
+CUST0240,SANJAY IYER,sanjay.iyer240@gmail.com,DELHI,+91-63490-61964,Amazing experience!!!
+CUST0241,sneha patel,sneha.patel241@example.com,BENGALURU,+91-84570-39430,Great service and fast delivery
+CUST0242,  Sneha Sharma  ,sneha.sharma242@company.com,coimbatore,+91-69017-15020,Customer support was helpful
+CUST0243,SANJAY NAIR,sanjay.nair243@yahoo.com, Pune ,+91-89399-90654,Great service and fast delivery
+CUST0244,sanjay sharma,sanjay.sharma244@gmail.com,HYDERABAD ,+91-74133-29597,Amazing experience!!!
+CUST0245,  Ananya Verma  ,ananya.verma245@example.com,BENGALURU,+91-78881-41147,Customer support was helpful
+CUST0246,PRIYA KUMAR,priya.kumar246@yahoo.com,DELHI,+91-89957-18232,good product but delivery was late
+CUST0247,nisha nair,nisha.nair247@gmail.com, Madurai,+91-69409-48177,Fast delivery and excellent service
+CUST0248,  Arun Verma  ,arun.verma248@company.com, Madurai,+91-97399-64600,Excellent quality! Very happy
+CUST0249,AARAV SHARMA,aarav.sharma249@company.com,BENGALURU,+91-94475-81313,Amazing experience!!!
+CUST0250,vikram das,vikram.das250@gmail.com,DELHI,+91-90810-15706,Fast delivery and excellent service
+CUST0251,  Sneha Reddy  ,sneha.reddy251@gmail.com,Mumbai,+91-64427-55193,Poor packaging and damaged item
+CUST0252,ANANYA SHARMA,ananya.sharma252@company.com,coimbatore,+91-62905-56176,Amazing experience!!!
+CUST0253,sneha singh,sneha.singh253@example.com, Pune ,+91-71945-27675,good product but delivery was late
+CUST0254,  Ananya Nair  ,ananya.nair254@gmail.com,HYDERABAD ,+91-73211-15741,Poor packaging and damaged item
+CUST0255,SANJAY KUMAR,sanjay.kumar255@company.com,HYDERABAD ,+91-93776-62196,Amazing experience!!!
+CUST0256,divya reddy,divya.reddy256@gmail.com, Madurai,+91-78750-56789,Great service and fast delivery
+CUST0257,  Nisha Iyer  ,nisha.iyer257@company.com,BENGALURU,+91-84118-67272,Fast delivery and excellent service
+CUST0258,ANANYA NAIR,ananya.nair258@example.com,Mumbai,+91-72243-75038,Not satisfied with the product
+CUST0259,sneha das,sneha.das259@company.com,BENGALURU,+91-87820-20345,Fast delivery and excellent service
+CUST0260,  Meera Singh  ,meera.singh260@company.com,Mumbai,+91-66723-20494,"The product is good, but price is high"
+CUST0261,AARAV REDDY,aarav.reddy261@company.com, Pune ,+91-99493-65851,Excellent quality! Very happy
+CUST0262,ananya nair,ananya.nair262@company.com, Pune ,+91-62775-56210,Will buy again from this store
+CUST0263,  Karthik Reddy  ,karthik.reddy263@gmail.com,BENGALURU,+91-86621-57619,Amazing experience!!!
+CUST0264,VIKRAM SINGH,vikram.singh264@gmail.com,coimbatore,+91-99817-98878,Not satisfied with the product
+CUST0265,arun singh,arun.singh265@gmail.com, Madurai,+91-84007-57467,Fast delivery and excellent service
+CUST0266,  Meera Kumar  ,meera.kumar266@yahoo.com, Pune ,+91-84311-58760,Not satisfied with the product
+CUST0267,VIKRAM SHARMA,vikram.sharma267@yahoo.com,Mumbai,+91-86085-51207,Customer support was helpful
+CUST0268,kavya sharma,kavya.sharma268@gmail.com,coimbatore,+91-92705-77861,Fast delivery and excellent service
+CUST0269,  Sanjay Das  ,sanjay.das269@gmail.com,HYDERABAD ,+91-77058-68493,Poor packaging and damaged item
+CUST0270,MEERA REDDY,meera.reddy270@example.com, Madurai,+91-68037-27790,good product but delivery was late
+CUST0271,divya singh,divya.singh271@example.com,BENGALURU,+91-80944-97535,"The product is good, but price is high"
+CUST0272,  Ananya Sharma  ,ananya.sharma272@company.com,HYDERABAD ,+91-70322-93584,Excellent quality! Very happy
+CUST0273,VIKRAM IYER,vikram.iyer273@yahoo.com,BENGALURU,+91-73171-28202,Poor packaging and damaged item
+CUST0274,vikram nair,vikram.nair274@gmail.com,Mumbai,+91-96308-85009,"The product is good, but price is high"
+CUST0275,  Divya Das  ,divya.das275@yahoo.com,BENGALURU,+91-64308-50539,Fast delivery and excellent service
+CUST0276,ANANYA NAIR,ananya.nair276@example.com,DELHI,+91-97676-19666,Excellent quality! Very happy
+CUST0277,sneha sharma,sneha.sharma277@example.com, Pune ,+91-93905-55156,Excellent quality! Very happy
+CUST0278,  Sanjay Das  ,sanjay.das278@yahoo.com,coimbatore,+91-88352-75911,Great service and fast delivery
+CUST0279,NISHA SHARMA,nisha.sharma279@yahoo.com,HYDERABAD ,+91-70790-31229,"The product is good, but price is high"
+CUST0280,sanjay patel,sanjay.patel280@company.com,HYDERABAD ,+91-65168-42847,Poor packaging and damaged item
+CUST0281,  Aarav Das  ,aarav.das281@company.com,coimbatore,+91-79845-90534,Amazing experience!!!
+CUST0282,PRIYA DAS,priya.das282@yahoo.com,coimbatore,+91-71219-96341,Will buy again from this store
+CUST0283,ananya verma,ananya.verma283@company.com, Chennai ,+91-61859-20646,Great service and fast delivery
+CUST0284,  Aarav Verma  ,aarav.verma284@company.com, Madurai,+91-97495-64602,Will buy again from this store
+CUST0285,AARAV KUMAR,aarav.kumar285@example.com,HYDERABAD ,+91-79798-73300,Poor packaging and damaged item
+CUST0286,vikram gupta,vikram.gupta286@company.com, Pune ,+91-64782-17852,Excellent quality! Very happy
+CUST0287,  Divya Gupta  ,divya.gupta287@example.com, Pune ,+91-73370-54589,Will buy again from this store
+CUST0288,RAHUL IYER,rahul.iyer288@company.com,Mumbai,+91-86130-27139,"The product is good, but price is high"
+CUST0289,rohan das,rohan.das289@gmail.com,Mumbai,+91-75842-71141,good product but delivery was late
+CUST0290,  Vijay Nair  ,vijay.nair290@yahoo.com,coimbatore,+91-66344-16632,Customer support was helpful
+CUST0291,KARTHIK VERMA,karthik.verma291@example.com, Madurai,+91-70466-52917,Will buy again from this store
+CUST0292,ananya iyer,ananya.iyer292@yahoo.com,coimbatore,+91-92654-77466,Not satisfied with the product
+CUST0293,  Divya Reddy  ,divya.reddy293@example.com, Chennai ,+91-65901-61543,Amazing experience!!!
+CUST0294,DIVYA PATEL,divya.patel294@yahoo.com,Mumbai,+91-63188-16624,Customer support was helpful
+CUST0295,divya verma,divya.verma295@example.com,HYDERABAD ,+91-95172-11071,good product but delivery was late
+CUST0296,  Karthik Singh  ,karthik.singh296@company.com,Mumbai,+91-86427-57964,Great service and fast delivery
+CUST0297,KARTHIK KUMAR,karthik.kumar297@yahoo.com,Mumbai,+91-96256-47827,good product but delivery was late
+CUST0298,karthik das,karthik.das298@example.com,HYDERABAD ,+91-67786-26864,good product but delivery was late
+CUST0299,  Karthik Iyer  ,karthik.iyer299@company.com,Mumbai,+91-69454-36090,Will buy again from this store
+CUST0300,ROHAN GUPTA,rohan.gupta300@gmail.com, Chennai ,+91-62550-27961,"The product is good, but price is high"
+CUST0301,vikram nair,vikram.nair301@example.com,coimbatore,+91-99731-77568,Excellent quality! Very happy
+CUST0302,  Sneha Verma  ,sneha.verma302@company.com,coimbatore,+91-85752-90805,Customer support was helpful
+CUST0303,MEERA IYER,meera.iyer303@example.com,HYDERABAD ,+91-91122-12180,"The product is good, but price is high"
+CUST0304,sneha sharma,sneha.sharma304@example.com,HYDERABAD ,+91-61746-88238,Not satisfied with the product
+CUST0305,  Vijay Verma  ,vijay.verma305@yahoo.com, Chennai ,+91-98241-72973,Excellent quality! Very happy
+CUST0306,ROHAN VERMA,rohan.verma306@example.com,coimbatore,+91-75872-14138,Will buy again from this store
+CUST0307,ananya sharma,ananya.sharma307@yahoo.com, Chennai ,+91-88903-51116,Fast delivery and excellent service
+CUST0308,  Rahul Gupta  ,rahul.gupta308@yahoo.com,DELHI,+91-92887-90147,Not satisfied with the product
+CUST0309,NISHA KUMAR,nisha.kumar309@yahoo.com, Madurai,+91-96758-52604,Not satisfied with the product
+CUST0310,rohan gupta,rohan.gupta310@company.com,coimbatore,+91-90124-79878,"The product is good, but price is high"
+CUST0311,  Rohan Iyer  ,rohan.iyer311@company.com, Pune ,+91-72600-42311,Customer support was helpful
+CUST0312,ROHAN REDDY,rohan.reddy312@yahoo.com,HYDERABAD ,+91-78940-37168,Not satisfied with the product
+CUST0313,sneha nair,sneha.nair313@company.com,HYDERABAD ,+91-78860-25974,Will buy again from this store
+CUST0314,  Aarav Das  ,aarav.das314@example.com,DELHI,+91-82618-29198,Customer support was helpful
+CUST0315,ARUN REDDY,arun.reddy315@gmail.com,Mumbai,+91-88991-95979,Customer support was helpful
+CUST0316,ananya nair,ananya.nair316@yahoo.com, Madurai,+91-95296-45537,Amazing experience!!!
+CUST0317,  Ananya Reddy  ,ananya.reddy317@yahoo.com,BENGALURU,+91-98458-41363,Poor packaging and damaged item
+CUST0318,ARUN DAS,arun.das318@yahoo.com, Madurai,+91-63440-23133,Fast delivery and excellent service
+CUST0319,sneha nair,sneha.nair319@gmail.com,coimbatore,+91-60339-82135,Excellent quality! Very happy
+CUST0320,  Karthik Nair  ,karthik.nair320@example.com, Madurai,+91-78824-52096,Customer support was helpful
+CUST0321,AARAV KUMAR,aarav.kumar321@gmail.com, Madurai,+91-95071-14888,Excellent quality! Very happy
+CUST0322,karthik singh,karthik.singh322@gmail.com,DELHI,+91-92465-34420,Customer support was helpful
+CUST0323,  Sanjay Kumar  ,sanjay.kumar323@gmail.com,HYDERABAD ,+91-97221-89007,good product but delivery was late
+CUST0324,SANJAY IYER,sanjay.iyer324@company.com, Pune ,+91-95605-78723,Not satisfied with the product
+CUST0325,sanjay singh,sanjay.singh325@example.com,HYDERABAD ,+91-72636-24764,"The product is good, but price is high"
+CUST0326,  Rahul Nair  ,rahul.nair326@company.com,coimbatore,+91-60923-54185,Customer support was helpful
+CUST0327,MEERA PATEL,meera.patel327@yahoo.com,DELHI,+91-88029-77538,"The product is good, but price is high"
+CUST0328,priya gupta,priya.gupta328@gmail.com,coimbatore,+91-69215-72580,"The product is good, but price is high"
+CUST0329,  Sanjay Patel  ,sanjay.patel329@gmail.com,HYDERABAD ,+91-85137-40870,Not satisfied with the product
+CUST0330,VIKRAM REDDY,vikram.reddy330@company.com,HYDERABAD ,+91-98172-85088,Great service and fast delivery
+CUST0331,vijay iyer,vijay.iyer331@yahoo.com, Chennai ,+91-67747-71000,Customer support was helpful
+CUST0332,  Rahul Gupta  ,rahul.gupta332@company.com,BENGALURU,+91-79335-58174,Will buy again from this store
+CUST0333,KAVYA PATEL,kavya.patel333@yahoo.com, Pune ,+91-70039-69634,Will buy again from this store
+CUST0334,sneha gupta,sneha.gupta334@example.com, Madurai,+91-76217-99173,Will buy again from this store
+CUST0335,  Nisha Sharma  ,nisha.sharma335@example.com,Mumbai,+91-65118-83946,good product but delivery was late
+CUST0336,ARUN DAS,arun.das336@yahoo.com,coimbatore,+91-70783-53007,Amazing experience!!!
+CUST0337,divya sharma,divya.sharma337@yahoo.com, Pune ,+91-65959-76895,Not satisfied with the product
+CUST0338,  Vikram Kumar  ,vikram.kumar338@example.com,coimbatore,+91-93636-64450,Not satisfied with the product
+CUST0339,MEERA KUMAR,meera.kumar339@example.com,HYDERABAD ,+91-61426-61897,Customer support was helpful
+CUST0340,nisha kumar,nisha.kumar340@yahoo.com,BENGALURU,+91-62968-65534,"The product is good, but price is high"
+CUST0341,  Ananya Sharma  ,ananya.sharma341@gmail.com,BENGALURU,+91-90937-14159,Customer support was helpful
+CUST0342,KARTHIK SINGH,karthik.singh342@yahoo.com,DELHI,+91-84540-60132,Not satisfied with the product
+CUST0343,nisha gupta,nisha.gupta343@example.com,BENGALURU,+91-95343-27431,"The product is good, but price is high"
+CUST0344,  Priya Singh  ,priya.singh344@example.com,coimbatore,+91-74594-10455,Great service and fast delivery
+CUST0345,VIJAY NAIR,vijay.nair345@example.com,DELHI,+91-75051-42441,Not satisfied with the product
+CUST0346,sneha singh,sneha.singh346@company.com, Madurai,+91-67395-14222,Fast delivery and excellent service
+CUST0347,  Meera Kumar  ,meera.kumar347@yahoo.com, Madurai,+91-64409-23224,Will buy again from this store
+CUST0348,ARUN NAIR,arun.nair348@gmail.com, Madurai,+91-62899-62725,Not satisfied with the product
+CUST0349,kavya das,kavya.das349@yahoo.com, Chennai ,+91-69183-76046,Customer support was helpful
+CUST0350,  Kavya Verma  ,kavya.verma350@company.com,Mumbai,+91-75525-49552,Excellent quality! Very happy
+CUST0351,AARAV DAS,aarav.das351@yahoo.com,DELHI,+91-79693-46064,Great service and fast delivery
+CUST0352,rohan verma,rohan.verma352@yahoo.com,DELHI,+91-96428-74962,Great service and fast delivery
+CUST0353,  Sneha Gupta  ,sneha.gupta353@company.com,DELHI,+91-86755-29558,Customer support was helpful
+CUST0354,KARTHIK SINGH,karthik.singh354@example.com, Madurai,+91-74768-49418,Excellent quality! Very happy
+CUST0355,vikram nair,vikram.nair355@gmail.com,DELHI,+91-87296-83044,Amazing experience!!!
+CUST0356,  Rahul Gupta  ,rahul.gupta356@yahoo.com,HYDERABAD ,+91-73325-53288,good product but delivery was late
+CUST0357,SANJAY NAIR,sanjay.nair357@company.com,BENGALURU,+91-95103-34966,Great service and fast delivery
+CUST0358,vijay gupta,vijay.gupta358@gmail.com,BENGALURU,+91-72331-87015,Amazing experience!!!
+CUST0359,  Kavya Nair  ,kavya.nair359@yahoo.com,Mumbai,+91-79869-12009,Poor packaging and damaged item
+CUST0360,SANJAY PATEL,sanjay.patel360@gmail.com, Pune ,+91-75898-89220,Poor packaging and damaged item
+CUST0361,karthik patel,karthik.patel361@company.com,HYDERABAD ,+91-84947-71112,Amazing experience!!!
+CUST0362,  Aarav Iyer  ,aarav.iyer362@company.com,HYDERABAD ,+91-83569-77215,Not satisfied with the product
+CUST0363,DIVYA SHARMA,divya.sharma363@example.com,Mumbai,+91-73312-58589,"The product is good, but price is high"
+CUST0364,karthik kumar,karthik.kumar364@yahoo.com,coimbatore,+91-61062-44180,Amazing experience!!!
+CUST0365,  Sanjay Verma  ,sanjay.verma365@example.com,HYDERABAD ,+91-69988-35715,"The product is good, but price is high"
+CUST0366,KAVYA GUPTA,kavya.gupta366@yahoo.com, Pune ,+91-96086-95800,"The product is good, but price is high"
+CUST0367,vijay nair,vijay.nair367@example.com, Pune ,+91-71025-56160,Excellent quality! Very happy
+CUST0368,  Rahul Das  ,rahul.das368@example.com,coimbatore,+91-95529-94123,Great service and fast delivery
+CUST0369,ROHAN KUMAR,rohan.kumar369@gmail.com, Chennai ,+91-60418-64053,Excellent quality! Very happy
+CUST0370,nisha patel,nisha.patel370@gmail.com,coimbatore,+91-60599-38668,Amazing experience!!!
+CUST0371,  Divya Iyer  ,divya.iyer371@gmail.com, Pune ,+91-91972-12061,Great service and fast delivery
+CUST0372,ROHAN DAS,rohan.das372@example.com, Chennai ,+91-61096-79391,Customer support was helpful
+CUST0373,rohan reddy,rohan.reddy373@gmail.com,DELHI,+91-71748-24026,good product but delivery was late
+CUST0374,  Rohan Singh  ,rohan.singh374@yahoo.com, Madurai,+91-94501-43084,"The product is good, but price is high"
+CUST0375,VIJAY GUPTA,vijay.gupta375@gmail.com,Mumbai,+91-86609-70161,Will buy again from this store
+CUST0376,kavya patel,kavya.patel376@company.com,BENGALURU,+91-62076-22255,Fast delivery and excellent service
+CUST0377,  Karthik Gupta  ,karthik.gupta377@example.com, Chennai ,+91-60619-32463,good product but delivery was late
+CUST0378,DIVYA GUPTA,divya.gupta378@company.com,BENGALURU,+91-94613-15577,Poor packaging and damaged item
+CUST0379,kavya verma,kavya.verma379@example.com,HYDERABAD ,+91-63051-19744,Customer support was helpful
+CUST0380,  Sanjay Das  ,sanjay.das380@gmail.com,coimbatore,+91-80610-12052,Poor packaging and damaged item
+CUST0381,MEERA SINGH,meera.singh381@example.com,BENGALURU,+91-79613-31292,Will buy again from this store
+CUST0382,kavya verma,kavya.verma382@example.com,Mumbai,+91-85155-28343,good product but delivery was late
+CUST0383,  Rohan Iyer  ,rohan.iyer383@gmail.com,BENGALURU,+91-88645-40427,good product but delivery was late
+CUST0384,SNEHA VERMA,sneha.verma384@example.com,Mumbai,+91-61941-93115,Customer support was helpful
+CUST0385,vikram nair,vikram.nair385@example.com, Madurai,+91-83318-82487,Fast delivery and excellent service
+CUST0386,  Karthik Singh  ,karthik.singh386@example.com,BENGALURU,+91-79357-42302,good product but delivery was late
+CUST0387,PRIYA REDDY,priya.reddy387@yahoo.com,DELHI,+91-70110-61068,"The product is good, but price is high"
+CUST0388,sneha sharma,sneha.sharma388@gmail.com, Chennai ,+91-80202-68292,"The product is good, but price is high"
+CUST0389,  Vikram Reddy  ,vikram.reddy389@gmail.com,coimbatore,+91-65721-34561,Fast delivery and excellent service
+CUST0390,DIVYA DAS,divya.das390@example.com,BENGALURU,+91-61721-21746,"The product is good, but price is high"
+CUST0391,rohan sharma,rohan.sharma391@company.com,DELHI,+91-60808-48253,Fast delivery and excellent service
+CUST0392,  Karthik Sharma  ,karthik.sharma392@yahoo.com,coimbatore,+91-84951-32216,Excellent quality! Very happy
+CUST0393,VIJAY REDDY,vijay.reddy393@company.com, Pune ,+91-69563-18292,Excellent quality! Very happy
+CUST0394,karthik reddy,karthik.reddy394@example.com,HYDERABAD ,+91-91734-20082,"The product is good, but price is high"
+CUST0395,  Vijay Patel  ,vijay.patel395@example.com, Madurai,+91-90006-24021,Excellent quality! Very happy
+CUST0396,VIJAY KUMAR,vijay.kumar396@example.com,Mumbai,+91-84896-53193,Not satisfied with the product
+CUST0397,sneha gupta,sneha.gupta397@yahoo.com,HYDERABAD ,+91-81015-89064,Poor packaging and damaged item
+CUST0398,  Divya Iyer  ,divya.iyer398@yahoo.com,DELHI,+91-80915-48200,Not satisfied with the product
+CUST0399,MEERA PATEL,meera.patel399@company.com,DELHI,+91-78369-61502,"The product is good, but price is high"
+CUST0400,priya verma,priya.verma400@yahoo.com,coimbatore,+91-96051-13527,Not satisfied with the product
+CUST0401,  Ananya Patel  ,ananya.patel401@example.com,HYDERABAD ,+91-64532-63627,Not satisfied with the product
+CUST0402,RAHUL REDDY,rahul.reddy402@yahoo.com,HYDERABAD ,+91-70101-65460,Fast delivery and excellent service
+CUST0403,priya nair,priya.nair403@example.com,DELHI,+91-95020-76402,Fast delivery and excellent service
+CUST0404,  Rohan Kumar  ,rohan.kumar404@company.com,BENGALURU,+91-67167-42536,"The product is good, but price is high"
+CUST0405,RAHUL VERMA,rahul.verma405@gmail.com,DELHI,+91-81731-66420,good product but delivery was late
+CUST0406,arun sharma,arun.sharma406@company.com, Madurai,+91-93467-77999,Amazing experience!!!
+CUST0407,  Meera Verma  ,meera.verma407@yahoo.com, Pune ,+91-84518-61266,Not satisfied with the product
+CUST0408,VIKRAM VERMA,vikram.verma408@yahoo.com,Mumbai,+91-61609-73277,good product but delivery was late
+CUST0409,vijay gupta,vijay.gupta409@gmail.com,BENGALURU,+91-69284-55656,Customer support was helpful
+CUST0410,  Sneha Nair  ,sneha.nair410@yahoo.com, Pune ,+91-82826-72411,good product but delivery was late
+CUST0411,DIVYA NAIR,divya.nair411@company.com,BENGALURU,+91-79678-15856,good product but delivery was late
+CUST0412,arun iyer,arun.iyer412@gmail.com,coimbatore,+91-75985-77632,Excellent quality! Very happy
+CUST0413,  Rohan Singh  ,rohan.singh413@company.com,DELHI,+91-90281-40389,Fast delivery and excellent service
+CUST0414,AARAV SINGH,aarav.singh414@yahoo.com,DELHI,+91-85924-13826,Will buy again from this store
+CUST0415,sanjay patel,sanjay.patel415@example.com,DELHI,+91-85482-10583,Poor packaging and damaged item
+CUST0416,  Kavya Reddy  ,kavya.reddy416@gmail.com,BENGALURU,+91-95185-34505,"The product is good, but price is high"
+CUST0417,SNEHA PATEL,sneha.patel417@example.com,BENGALURU,+91-77193-97910,Not satisfied with the product
+CUST0418,rohan iyer,rohan.iyer418@example.com,DELHI,+91-98469-24972,"The product is good, but price is high"
+CUST0419,  Sneha Nair  ,sneha.nair419@yahoo.com,HYDERABAD ,+91-98677-21108,Excellent quality! Very happy
+CUST0420,SNEHA SHARMA,sneha.sharma420@yahoo.com,HYDERABAD ,+91-67664-33992,"The product is good, but price is high"
+CUST0421,ananya singh,ananya.singh421@example.com,DELHI,+91-99087-28070,Will buy again from this store
+CUST0422,  Karthik Gupta  ,karthik.gupta422@yahoo.com, Pune ,+91-95217-94575,Excellent quality! Very happy
+CUST0423,ROHAN SINGH,rohan.singh423@example.com,HYDERABAD ,+91-69194-34523,"The product is good, but price is high"
+CUST0424,nisha nair,nisha.nair424@gmail.com,Mumbai,+91-60628-73518,Excellent quality! Very happy
+CUST0425,  Kavya Gupta  ,kavya.gupta425@example.com,DELHI,+91-92225-64477,Not satisfied with the product
+CUST0426,DIVYA SINGH,divya.singh426@gmail.com, Chennai ,+91-74452-48284,Great service and fast delivery
+CUST0427,vijay patel,vijay.patel427@company.com,coimbatore,+91-89971-84140,Not satisfied with the product
+CUST0428,  Rohan Das  ,rohan.das428@gmail.com,BENGALURU,+91-77556-81186,"The product is good, but price is high"
+CUST0429,ROHAN KUMAR,rohan.kumar429@example.com, Madurai,+91-87862-23423,Poor packaging and damaged item
+CUST0430,vijay kumar,vijay.kumar430@example.com,HYDERABAD ,+91-82844-21401,Not satisfied with the product
+CUST0431,  Nisha Sharma  ,nisha.sharma431@yahoo.com, Madurai,+91-98530-55957,Will buy again from this store
+CUST0432,AARAV GUPTA,aarav.gupta432@yahoo.com,coimbatore,+91-73541-37124,Great service and fast delivery
+CUST0433,meera iyer,meera.iyer433@company.com,coimbatore,+91-81210-48356,Customer support was helpful
+CUST0434,  Meera Reddy  ,meera.reddy434@gmail.com,coimbatore,+91-86974-17770,Customer support was helpful
+CUST0435,NISHA SINGH,nisha.singh435@yahoo.com, Madurai,+91-69584-52217,Poor packaging and damaged item
+CUST0436,vikram gupta,vikram.gupta436@example.com,coimbatore,+91-97842-92890,Customer support was helpful
+CUST0437,  Aarav Gupta  ,aarav.gupta437@example.com, Pune ,+91-64949-93050,good product but delivery was late
+CUST0438,KARTHIK DAS,karthik.das438@company.com,Mumbai,+91-89798-73968,"The product is good, but price is high"
+CUST0439,meera kumar,meera.kumar439@gmail.com, Pune ,+91-83476-18300,Amazing experience!!!
+CUST0440,  Karthik Patel  ,karthik.patel440@example.com, Madurai,+91-92421-45197,"The product is good, but price is high"
+CUST0441,NISHA REDDY,nisha.reddy441@company.com,coimbatore,+91-97102-73614,"The product is good, but price is high"
+CUST0442,sanjay kumar,sanjay.kumar442@gmail.com,BENGALURU,+91-90119-12134,good product but delivery was late
+CUST0443,  Sanjay Singh  ,sanjay.singh443@example.com, Pune ,+91-60044-66072,Poor packaging and damaged item
+CUST0444,ANANYA SINGH,ananya.singh444@company.com,coimbatore,+91-77958-22234,"The product is good, but price is high"
+CUST0445,vijay sharma,vijay.sharma445@company.com,coimbatore,+91-63393-61949,Customer support was helpful
+CUST0446,  Ananya Patel  ,ananya.patel446@example.com,BENGALURU,+91-66237-10142,Poor packaging and damaged item
+CUST0447,DIVYA SHARMA,divya.sharma447@yahoo.com, Madurai,+91-94042-99126,Not satisfied with the product
+CUST0448,arun kumar,arun.kumar448@company.com,BENGALURU,+91-87676-27324,Not satisfied with the product
+CUST0449,  Priya Patel  ,priya.patel449@example.com,BENGALURU,+91-66712-23526,"The product is good, but price is high"
+CUST0450,SNEHA REDDY,sneha.reddy450@yahoo.com,DELHI,+91-68725-94092,Excellent quality! Very happy
+CUST0451,priya das,priya.das451@gmail.com,coimbatore,+91-88842-56030,Poor packaging and damaged item
+CUST0452,  Aarav Singh  ,aarav.singh452@example.com, Pune ,+91-74237-21362,good product but delivery was late
+CUST0453,RAHUL SHARMA,rahul.sharma453@example.com,Mumbai,+91-88140-51222,Excellent quality! Very happy
+CUST0454,kavya reddy,kavya.reddy454@gmail.com, Madurai,+91-96267-88774,Will buy again from this store
+CUST0455,  Ananya Verma  ,ananya.verma455@company.com, Chennai ,+91-79768-36928,Amazing experience!!!
+CUST0456,MEERA DAS,meera.das456@yahoo.com,DELHI,+91-79368-94694,Great service and fast delivery
+CUST0457,vikram patel,vikram.patel457@example.com,DELHI,+91-67388-41599,Not satisfied with the product
+CUST0458,  Aarav Verma  ,aarav.verma458@gmail.com, Chennai ,+91-83664-51480,Excellent quality! Very happy
+CUST0459,KARTHIK VERMA,karthik.verma459@example.com,Mumbai,+91-95806-99514,Excellent quality! Very happy
+CUST0460,vikram nair,vikram.nair460@gmail.com, Chennai ,+91-98493-18851,Great service and fast delivery
+CUST0461,  Vijay Patel  ,vijay.patel461@gmail.com, Chennai ,+91-86081-76402,Customer support was helpful
+CUST0462,AARAV DAS,aarav.das462@example.com,DELHI,+91-86363-20803,Amazing experience!!!
+CUST0463,rohan verma,rohan.verma463@yahoo.com,HYDERABAD ,+91-65478-50620,good product but delivery was late
+CUST0464,  Rohan Patel  ,rohan.patel464@yahoo.com,Mumbai,+91-85606-86865,good product but delivery was late
+CUST0465,VIJAY GUPTA,vijay.gupta465@yahoo.com, Chennai ,+91-76022-21300,Fast delivery and excellent service
+CUST0466,priya nair,priya.nair466@gmail.com,HYDERABAD ,+91-71511-25655,Great service and fast delivery
+CUST0467,  Ananya Singh  ,ananya.singh467@gmail.com,coimbatore,+91-92532-55443,Amazing experience!!!
+CUST0468,ROHAN REDDY,rohan.reddy468@yahoo.com,Mumbai,+91-68318-45227,good product but delivery was late
+CUST0469,vikram kumar,vikram.kumar469@company.com,DELHI,+91-77824-78662,good product but delivery was late
+CUST0470,  Vijay Verma  ,vijay.verma470@gmail.com, Pune ,+91-89831-76949,"The product is good, but price is high"
+CUST0471,ARUN NAIR,arun.nair471@yahoo.com,Mumbai,+91-70309-43438,good product but delivery was late
+CUST0472,sanjay verma,sanjay.verma472@gmail.com, Madurai,+91-93346-10336,Great service and fast delivery
+CUST0473,  Nisha Kumar  ,nisha.kumar473@yahoo.com, Chennai ,+91-90917-57707,Fast delivery and excellent service
+CUST0474,SANJAY SINGH,sanjay.singh474@yahoo.com, Chennai ,+91-96232-95944,Fast delivery and excellent service
+CUST0475,kavya iyer,kavya.iyer475@yahoo.com,DELHI,+91-80967-45554,good product but delivery was late
+CUST0476,  Meera Iyer  ,meera.iyer476@gmail.com, Chennai ,+91-71753-39253,Amazing experience!!!
+CUST0477,ARUN GUPTA,arun.gupta477@gmail.com, Pune ,+91-78501-50723,"The product is good, but price is high"
+CUST0478,priya das,priya.das478@example.com, Chennai ,+91-84177-36302,Customer support was helpful
+CUST0479,  Meera Reddy  ,meera.reddy479@yahoo.com, Pune ,+91-84135-87554,Not satisfied with the product
+CUST0480,VIKRAM PATEL,vikram.patel480@yahoo.com,coimbatore,+91-60417-63744,Great service and fast delivery
+CUST0481,kavya das,kavya.das481@company.com, Chennai ,+91-81955-10191,Fast delivery and excellent service
+CUST0482,  Nisha Reddy  ,nisha.reddy482@gmail.com, Madurai,+91-94721-41217,Fast delivery and excellent service
+CUST0483,DIVYA KUMAR,divya.kumar483@yahoo.com,HYDERABAD ,+91-66096-15754,Poor packaging and damaged item
+CUST0484,sanjay das,sanjay.das484@example.com,Mumbai,+91-90045-21128,Will buy again from this store
+CUST0485,  Priya Das  ,priya.das485@yahoo.com,DELHI,+91-64904-87580,Will buy again from this store
+CUST0486,ARUN GUPTA,arun.gupta486@yahoo.com, Madurai,+91-79115-44208,"The product is good, but price is high"
+CUST0487,sanjay gupta,sanjay.gupta487@company.com,Mumbai,+91-89671-45645,Poor packaging and damaged item
+CUST0488,  Priya Patel  ,priya.patel488@yahoo.com,BENGALURU,+91-70184-23848,Excellent quality! Very happy
+CUST0489,DIVYA NAIR,divya.nair489@company.com,DELHI,+91-67912-80244,"The product is good, but price is high"
+CUST0490,vikram patel,vikram.patel490@example.com,HYDERABAD ,+91-90365-44735,good product but delivery was late
+CUST0491,  Priya Singh  ,priya.singh491@company.com, Chennai ,+91-74091-52964,Excellent quality! Very happy
+CUST0492,PRIYA PATEL,priya.patel492@company.com,DELHI,+91-93650-16416,Customer support was helpful
+CUST0493,vijay singh,vijay.singh493@gmail.com,DELHI,+91-89635-82869,Amazing experience!!!
+CUST0494,  Kavya Sharma  ,kavya.sharma494@example.com,BENGALURU,+91-69161-25919,Great service and fast delivery
+CUST0495,ARUN PATEL,arun.patel495@yahoo.com, Madurai,+91-86252-58790,good product but delivery was late
+CUST0496,meera verma,meera.verma496@company.com,BENGALURU,+91-61428-18450,Poor packaging and damaged item
+CUST0497,  Sanjay Nair  ,sanjay.nair497@yahoo.com,BENGALURU,+91-81728-26059,Great service and fast delivery
+CUST0498,DIVYA KUMAR,divya.kumar498@yahoo.com,DELHI,+91-85886-75028,Great service and fast delivery
+CUST0499,karthik gupta,karthik.gupta499@yahoo.com,Mumbai,+91-74071-34530,Customer support was helpful
+CUST0500,  Vijay Nair  ,vijay.nair500@yahoo.com, Chennai ,+91-76107-94840,Customer support was helpful
